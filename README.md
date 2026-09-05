@@ -16,6 +16,7 @@ A giant, community-friendly catalog of Linux distributions and other Unix-like o
 - 📦 **Immutable / atomic** — image-based systems, rollback and atomic updates
 - 📱 **Mobile & embedded** — phones, tablets, routers, boards and appliances
 - 🐚 **BSD / Unix-like** — systems outside the Linux kernel ecosystem
+- 🤝 **Community projects** — independent, volunteer-led, enthusiast-built and community-maintained distributions
 
 ## Major Linux distributions
 
@@ -48,9 +49,13 @@ A giant, community-friendly catalog of Linux distributions and other Unix-like o
 | [Peppermint OS](https://peppermintos.com/) | Debian / Ubuntu | Lightweight desktop with web-app integration | [Website](https://peppermintos.com/) |
 | [Q4OS](https://q4os.org/) | Debian | Lightweight traditional desktop | [Website](https://q4os.org/) |
 | [LXLE](https://www.lxle.net/) | Ubuntu | Lightweight desktop for older hardware | [Website](https://www.lxle.net/) |
-| [Mageia](https://www.mageia.org/) | Mandriva | Community desktop and server OS | [Website](https://www.mageia.org/) |
 | [OpenMandriva](https://www.openmandriva.org/) | Mandriva | Community desktop Linux | [Website](https://www.openmandriva.org/) |
 | [ALT Linux](https://www.altlinux.org/) | Independent | Desktop, server and education | [Website](https://www.altlinux.org/) |
+| [SpiralLinux](https://spirallinux.github.io/) | Debian | Friendly Debian desktop with preconfigured environments | [Website](https://spirallinux.github.io/) |
+| [Siduction](https://siduction.org/) | Debian Unstable | Rolling desktop built around Debian Sid | [Website](https://siduction.org/) |
+| [Rhino Linux](https://rhinolinux.org/) | Ubuntu | Rolling Ubuntu-based desktop | [Website](https://rhinolinux.org/) |
+| [Vanilla OS](https://vanillaos.org/) | Debian / Ubuntu heritage | Immutable, container-oriented desktop | [Website](https://vanillaos.org/) |
+| [blendOS](https://blendos.co/) | Arch | Immutable desktop with multiple package ecosystems | [Website](https://blendos.co/) |
 
 ## Ubuntu family and flavors
 
@@ -70,6 +75,10 @@ A giant, community-friendly catalog of Linux distributions and other Unix-like o
 | [Bodhi Linux](https://www.bodhilinux.com/) | Lightweight Moksha desktop | [Website](https://www.bodhilinux.com/) |
 | [AnduinOS](https://anduin.linux/) | Windows-like GNOME desktop on Ubuntu/Debian | [Website](https://anduin.linux/) |
 | [DAT Linux](https://datlinux.com/) | Data-science workstation | [Website](https://datlinux.com/) |
+| [Ubuntu DDE](https://ubuntudde.com/) | Ubuntu with Deepin Desktop | [Website](https://ubuntudde.com/) |
+| [Ubuntu Web Remix](https://ubuntu-web.org/) | Web-focused Ubuntu experience | [Website](https://ubuntu-web.org/) |
+| [Ubuntu GamePack](https://ualinux.com/en/ubuntu-gamepack) | Gaming-oriented Ubuntu derivative | [Website](https://ualinux.com/en/ubuntu-gamepack) |
+| [Ufficio Zero Linux](https://ufficiozero.org/) | Desktop productivity and office use | [Website](https://ufficiozero.org/) |
 
 ## Arch family
 
@@ -99,7 +108,9 @@ A giant, community-friendly catalog of Linux distributions and other Unix-like o
 | [BigLinux](https://www.biglinux.com.br/) | Manjaro-based KDE desktop | [Website](https://www.biglinux.com.br/) |
 | [TROMjaro](https://www.tromjaro.com/) | User-friendly Manjaro desktop | [Website](https://www.tromjaro.com/) |
 | [Mabox Linux](https://maboxlinux.org/) | Lightweight Openbox Manjaro desktop | [Website](https://maboxlinux.org/) |
-| [Arcolinux](https://arcolinux.com/) | Arch learning and customization project | [Website](https://arcolinux.com/) |
+| [XeroLinux](https://xerolinux.xyz/) | Arch-based customized desktop | [Website](https://xerolinux.xyz/) |
+| [Archcraft](https://archcraft.io/) | Minimal and heavily customized Arch desktop | [Website](https://archcraft.io/) |
+| [Garuda](https://garudalinux.org/) | Community Arch desktop with gaming editions | [Website](https://garudalinux.org/) |
 
 ## Fedora and Red Hat family
 
@@ -118,6 +129,10 @@ A giant, community-friendly catalog of Linux distributions and other Unix-like o
 | [Fedora Sway Atomic](https://fedoraproject.org/atomic-desktops/sway-atomic/) | Immutable Fedora Sway desktop | [Website](https://fedoraproject.org/atomic-desktops/sway-atomic/) |
 | [Anolis OS](https://openanolis.cn/) | Enterprise/cloud server Linux | [Website](https://openanolis.cn/) |
 | [BlueOnyx](https://www.blueonyx.it/) | AlmaLinux-based hosting appliance | [Website](https://www.blueonyx.it/) |
+| [Asahi Linux](https://asahilinux.org/) | Linux support for Apple Silicon Macs | [Website](https://asahilinux.org/) |
+| [Ultramarine Linux](https://ultramarine-linux.org/) | Community Fedora desktop | [Website](https://ultramarine-linux.org/) |
+| [Qubes OS](https://www.qubes-os.org/) | Security-focused Fedora-based isolation | [Website](https://www.qubes-os.org/) |
+| [Nobara](https://nobaraproject.org/) | Community Fedora gaming/creator desktop | [Website](https://nobaraproject.org/) |
 
 ## Debian family and specialists
 
@@ -147,10 +162,15 @@ A giant, community-friendly catalog of Linux distributions and other Unix-like o
 | [Grml](https://grml.org/) | Command-line rescue and administration | [Website](https://grml.org/) |
 | [Qlustar](https://www.qlustar.com/) | HPC and cluster computing | [Website](https://www.qlustar.com/) |
 | [umbrelOS](https://umbrel.com/umbrelos) | Home server and self-hosting platform | [Website](https://umbrel.com/umbrelos) |
+| [SpiralLinux](https://spirallinux.github.io/) | Friendly Debian desktop | [Website](https://spirallinux.github.io/) |
+| [Siduction](https://siduction.org/) | Debian Sid rolling desktop | [Website](https://siduction.org/) |
+| [LMDE](https://www.linuxmint.com/download_lmde.php) | Debian-based Mint desktop | [Website](https://www.linuxmint.com/download_lmde.php) |
+| [MX Linux](https://mxlinux.org/) | Community Debian desktop | [Website](https://mxlinux.org/) |
+| [Damn Small Linux](https://www.damnsmalllinux.org/) | Tiny Linux live environment | [Website](https://www.damnsmalllinux.org/) |
 
 ## Independent, source-based and experimental Linux
 
-| OS | Family | What it is for | Link |
+| OS | Family / type | What it is for | Link |
 |---|---|---|---|
 | [Guix System](https://guix.gnu.org/) | GNU Guix | Declarative and reproducible GNU/Linux | [Website](https://guix.gnu.org/) |
 | [Clear Linux](https://www.clearlinux.org/) | Independent | Performance-oriented workloads | [Website](https://www.clearlinux.org/) |
@@ -171,7 +191,11 @@ A giant, community-friendly catalog of Linux distributions and other Unix-like o
 | [SliTaz](https://www.slitaz.org/) | Independent | Tiny live Linux | [Website](https://www.slitaz.org/) |
 | [Tiny Core Linux](http://www.tinycorelinux.net/) | Independent | Extremely small modular Linux | [Website](http://www.tinycorelinux.net/) |
 | [Mabox Linux](https://maboxlinux.org/) | Manjaro | Lightweight Openbox desktop | [Website](https://maboxlinux.org/) |
-| [Neon](https://neon.kde.org/) | Ubuntu | KDE-focused desktop | [Website](https://neon.kde.org/) |
+| [SpiralLinux](https://spirallinux.github.io/) | Debian | Preconfigured desktop-focused Debian | [Website](https://spirallinux.github.io/) |
+| [Source Mage](https://sourcemage.org/) | Source-based | Compile-oriented Linux distribution | [Website](https://sourcemage.org/) |
+| [LFS](https://www.linuxfromscratch.org/) | Build project | Learn and build a Linux system from source | [Website](https://www.linuxfromscratch.org/) |
+| [Beyond Linux From Scratch](https://www.linuxfromscratch.org/blfs/) | LFS project | Extend a hand-built Linux system | [Website](https://www.linuxfromscratch.org/blfs/) |
+| [Obarun](https://www.obarun.org/) | Arch-derived | systemd-free advanced Linux | [Website](https://www.obarun.org/) |
 
 ## Lightweight Linux 🪶
 
@@ -191,6 +215,9 @@ A giant, community-friendly catalog of Linux distributions and other Unix-like o
 | [KLV-Airedale](https://forum.puppylinux.com/) | Lightweight Puppy-family experimentation | [Community](https://forum.puppylinux.com/) |
 | [Noid Linux](https://noidlinux.org/) | Minimal Void-based Xfce desktop | [Website](https://noidlinux.org/) |
 | [Neko-Void](https://neko-void.sourceforge.io/) | Void-based MATE desktop | [Website](https://neko-void.sourceforge.io/) |
+| [Damn Small Linux](https://www.damnsmalllinux.org/) | Extremely small live Linux | [Website](https://www.damnsmalllinux.org/) |
+| [Tiny Core Pure64](http://www.tinycorelinux.net/) | Tiny 64-bit modular Linux | [Website](http://www.tinycorelinux.net/) |
+| [LXQt Spin projects](https://lxqt-project.org/) | Lightweight Qt desktop ecosystem | [Website](https://lxqt-project.org/) |
 
 ## Gaming Linux 🎮
 
@@ -206,6 +233,10 @@ A giant, community-friendly catalog of Linux distributions and other Unix-like o
 | [PikaOS](https://wiki.pika-os.com/) | Debian | Gaming workstation | [Website](https://wiki.pika-os.com/) |
 | [Regata OS](https://www.regataos.com.br/) | openSUSE | Gaming and productivity desktop | [Website](https://www.regataos.com.br/) |
 | [Lakka](https://www.lakka.tv/) | Linux / LibreELEC | Retro-gaming console OS | [Website](https://www.lakka.tv/) |
+| [Nobara](https://nobaraproject.org/) | Fedora | Community gaming and creator setup | [Website](https://nobaraproject.org/) |
+| [PikaOS](https://wiki.pika-os.com/) | Debian | Community gaming desktop | [Website](https://wiki.pika-os.com/) |
+| [RebornOS](https://rebornos.org/) | Arch | Community Arch desktop with gaming options | [Website](https://rebornos.org/) |
+| [GameMode ecosystem](https://github.com/FeralInteractive/gamemode) | Linux | Gaming optimization software used by many distros | [GitHub](https://github.com/FeralInteractive/gamemode) |
 
 ## Security, privacy and forensics 🔐
 
@@ -222,6 +253,9 @@ A giant, community-friendly catalog of Linux distributions and other Unix-like o
 | [REMnux](https://remnux.org/) | Ubuntu | Malware analysis and reverse engineering | [Website](https://remnux.org/) |
 | [Tsurugi Linux](https://tsurugi-linux.org/) | Debian | DFIR, malware analysis and OSINT | [Website](https://tsurugi-linux.org/) |
 | [Security Onion](https://securityonionsolutions.com/software) | Linux | Network security monitoring and threat hunting | [Website](https://securityonionsolutions.com/software) |
+| [Kodachi](https://www.kodachi.net/) | Debian | Privacy-oriented live desktop | [Website](https://www.kodachi.net/) |
+| [Septor](https://septor.sourceforge.io/) | Debian | Privacy-focused desktop environment | [Website](https://septor.sourceforge.io/) |
+| [Whonix KVM](https://www.whonix.org/wiki/KVM) | Debian | Virtualized privacy environment | [Website](https://www.whonix.org/wiki/KVM) |
 
 ## Servers, appliances and infrastructure
 
@@ -245,6 +279,10 @@ A giant, community-friendly catalog of Linux distributions and other Unix-like o
 | [BlueOnyx](https://www.blueonyx.it/) | AlmaLinux | Web hosting appliance | [Website](https://www.blueonyx.it/) |
 | [Clear Linux](https://www.clearlinux.org/) | Independent | Performance-oriented server/developer workloads | [Website](https://www.clearlinux.org/) |
 | [Qlustar](https://www.qlustar.com/) | Linux | Cluster and HPC computing | [Website](https://www.qlustar.com/) |
+| [OpenNebula](https://opennebula.io/) | Linux ecosystem | Private cloud and virtualization platform | [Website](https://opennebula.io/) |
+| [Rockstor](https://rockstor.com/) | Linux | NAS and Btrfs-based storage server | [Website](https://rockstor.com/) |
+| [XigmaNAS](https://www.xigmanas.com/) | FreeBSD | NAS and storage | [Website](https://www.xigmanas.com/) |
+| [OpenIndiana](https://www.openindiana.org/) | illumos | Server and workstation Unix | [Website](https://www.openindiana.org/) |
 
 ## Mobile and embedded Linux 📱
 
@@ -261,6 +299,10 @@ A giant, community-friendly catalog of Linux distributions and other Unix-like o
 | [LibreELEC](https://libreelec.tv/) | Linux | Minimal Kodi media-center OS | [Website](https://libreelec.tv/) |
 | [Lakka](https://www.lakka.tv/) | Linux | Retro gaming on embedded and PC hardware | [Website](https://www.lakka.tv/) |
 | [Apertis](https://www.apertis.org/) | Debian | Embedded and automotive Linux | [Website](https://www.apertis.org/) |
+| [Droidian](https://droidian.org/) | Debian | Debian-based mobile system for Android hardware | [Website](https://droidian.org/) |
+| [postmarketOS community ports](https://wiki.postmarketos.org/wiki/Devices) | Alpine | Community-maintained phone/tablet ports | [Community wiki](https://wiki.postmarketos.org/wiki/Devices) |
+| [OpenWrt](https://openwrt.org/) | Linux | Community router and embedded firmware | [Website](https://openwrt.org/) |
+| [Jolla Sailfish](https://sailfishos.org/) | Linux | Mobile platform and community ecosystem | [Website](https://sailfishos.org/) |
 
 ## More Linux: newer, niche and unusual projects 🚀
 
@@ -303,22 +345,68 @@ A giant, community-friendly catalog of Linux distributions and other Unix-like o
 | [Porteus](https://porteus.org/) | Slackware | Portable live Linux | [Website](https://porteus.org/) |
 | [Slax](https://www.slax.org/) | Debian | Portable modular live Linux | [Website](https://www.slax.org/) |
 | [Accessible-Coconut](https://accessible-coconut.org/) | Debian | Accessibility-focused desktop Linux | [Website](https://accessible-coconut.org/) |
-| [Grml](https://grml.org/) | Debian | Rescue and administration toolkit | [Website](https://grml.org/) |
-| [Tsurugi Linux](https://tsurugi-linux.org/) | Debian | DFIR and OSINT workstation | [Website](https://tsurugi-linux.org/) |
-| [DAT Linux](https://datlinux.com/) | Ubuntu | Scientific/data-science workstation | [Website](https://datlinux.com/) |
-| [Evernight Vista](https://distrofinder.com/) | Linux | Experimental desktop project | [Website](https://distrofinder.com/) |
-| [Chimo Linux](https://distrofinder.com/) | Linux | Community desktop project | [Website](https://distrofinder.com/) |
-| [Dharma Linux](https://distrofinder.com/) | Linux | Community desktop project | [Website](https://distrofinder.com/) |
-| [NawaOS](https://distrofinder.com/) | Linux | Community desktop project | [Website](https://distrofinder.com/) |
 | [Plamo Linux](https://www.plamolinux.org/) | Independent | Japanese source-oriented Linux | [Website](https://www.plamolinux.org/) |
-| [RoshanOS](https://distrofinder.com/) | Linux | Community distro project | [Website](https://distrofinder.com/) |
-| [AXEM-SX](https://distrofinder.com/) | Linux | Specialized Linux project | [Website](https://distrofinder.com/) |
-| [ReignOS](https://reignos.org/) | Arch | Gaming desktop | [Website](https://reignos.org/) |
-| [PolonOS](https://polonos.org/) | Debian | KDE desktop | [Website](https://polonos.org/) |
-| [Vuu-do](https://distrofinder.com/) | Linux | Community Linux project | [Website](https://distrofinder.com/) |
-| [VasakOS](https://vasakos.org/) | Arch | Wayfire desktop | [Website](https://vasakos.org/) |
-| [LankeOS](https://lankeos.org/) | LFS | Lightweight custom Linux | [Website](https://lankeos.org/) |
-| [Shanios](https://shanios.org/) | Arch | Immutable Arch desktop | [Website](https://shanios.org/) |
+| [SpiralLinux](https://spirallinux.github.io/) | Debian | Community-focused Debian desktop | [Website](https://spirallinux.github.io/) |
+| [Rhino Linux](https://rhinolinux.org/) | Ubuntu | Rolling desktop Linux | [Website](https://rhinolinux.org/) |
+| [XeroLinux](https://xerolinux.xyz/) | Arch | Customized enthusiast desktop | [Website](https://xerolinux.xyz/) |
+| [blendOS](https://blendos.co/) | Arch | Immutable multi-distro desktop | [Website](https://blendos.co/) |
+| [Vanilla OS](https://vanillaos.org/) | Debian / Ubuntu heritage | Immutable desktop experiment | [Website](https://vanillaos.org/) |
+| [Ufficio Zero Linux](https://ufficiozero.org/) | Ubuntu / Debian | Community office and productivity distro | [Website](https://ufficiozero.org/) |
+
+## Community distributions 🤝
+
+This category is specifically for **community-led, volunteer-driven, enthusiast-built, independent, or strongly community-maintained Linux projects**. Some also appear in their technical/base-distro categories above; this section makes them easier to find as a group.
+
+| Community OS | Base / family | What it is for | Link |
+|---|---|---|---|
+| [MX Linux](https://mxlinux.org/) | Debian | Community desktop Linux with practical administration tools | [Website](https://mxlinux.org/) |
+| [antiX](https://antixlinux.com/) | Debian | Community lightweight Linux for older hardware | [Website](https://antixlinux.com/) |
+| [Manjaro](https://manjaro.org/) | Arch | Community-oriented Arch desktop ecosystem | [Website](https://manjaro.org/) |
+| [EndeavourOS](https://endeavouros.com/) | Arch | Community Arch experience close to upstream Arch | [Website](https://endeavouros.com/) |
+| [Garuda Linux](https://garudalinux.org/) | Arch | Community gaming and desktop distribution | [Website](https://garudalinux.org/) |
+| [CachyOS](https://cachyos.org/) | Arch | Community performance-focused Linux | [Website](https://cachyos.org/) |
+| [ArcoLinux](https://arcolinux.com/) | Arch | Community learning and customization project | [Website](https://arcolinux.com/) |
+| [Artix Linux](https://artixlinux.org/) | Arch | Community systemd-free Arch ecosystem | [Website](https://artixlinux.org/) |
+| [RebornOS](https://rebornos.org/) | Arch | Community-friendly Arch installer and desktop | [Website](https://rebornos.org/) |
+| [Mabox Linux](https://maboxlinux.org/) | Manjaro | Community lightweight Openbox desktop | [Website](https://maboxlinux.org/) |
+| [BigLinux](https://www.biglinux.com.br/) | Manjaro | Community KDE-focused desktop | [Website](https://www.biglinux.com.br/) |
+| [TROMjaro](https://www.tromjaro.com/) | Manjaro | Community desktop distribution | [Website](https://www.tromjaro.com/) |
+| [BunsenLabs](https://www.bunsenlabs.org/) | Debian | Community Openbox desktop | [Website](https://www.bunsenlabs.org/) |
+| [SparkyLinux](https://sparkylinux.org/) | Debian | Community Debian desktop and special-purpose editions | [Website](https://sparkylinux.org/) |
+| [SpiralLinux](https://spirallinux.github.io/) | Debian | Community-friendly preconfigured Debian | [Website](https://spirallinux.github.io/) |
+| [Siduction](https://siduction.org/) | Debian | Community rolling Debian Sid desktop | [Website](https://siduction.org/) |
+| [Peppermint OS](https://peppermintos.com/) | Debian | Community lightweight desktop | [Website](https://peppermintos.com/) |
+| [Puppy Linux](https://puppylinux-woof-ce.github.io/) | Multiple | Community ecosystem of tiny Linux variants | [Website](https://puppylinux-woof-ce.github.io/) |
+| [EasyOS](https://www.easyos.org/) | Puppy lineage | Community experimental desktop and containers | [Website](https://www.easyos.org/) |
+| [Void Linux](https://voidlinux.org/) | Independent | Independent rolling Linux maintained by a community | [Website](https://voidlinux.org/) |
+| [Chimera Linux](https://chimera-linux.org/) | Independent | Community-developed modern Linux | [Website](https://chimera-linux.org/) |
+| [AerynOS](https://aerynos.com/) | Independent | Community independent desktop Linux | [Website](https://aerynos.com/) |
+| [Serpent OS](https://serpentos.com/) | Independent | Community-developed modern Linux architecture | [Website](https://serpentos.com/) |
+| [NixOS](https://nixos.org/) | Independent | Large community around declarative Linux | [Website](https://nixos.org/) |
+| [Guix System](https://guix.gnu.org/) | GNU | Community free-software operating system | [Website](https://guix.gnu.org/) |
+| [OpenMandriva Lx](https://www.openmandriva.org/) | Mandriva lineage | Community-driven desktop Linux | [Website](https://www.openmandriva.org/) |
+| [Mageia](https://www.mageia.org/) | Mandriva lineage | Community desktop/server Linux | [Website](https://www.mageia.org/) |
+| [PCLinuxOS](https://www.pclinuxos.com/) | Independent | Community rolling desktop | [Website](https://www.pclinuxos.com/) |
+| [Solus](https://getsol.us/) | Independent | Community desktop-focused Linux | [Website](https://getsol.us/) |
+| [KaOS](https://kaosx.us/) | Independent | Community KDE/Qt-focused Linux | [Website](https://kaosx.us/) |
+| [Q4OS](https://q4os.org/) | Debian | Community lightweight desktop | [Website](https://q4os.org/) |
+| [Bodhi Linux](https://www.bodhilinux.com/) | Ubuntu | Community lightweight Moksha desktop | [Website](https://www.bodhilinux.com/) |
+| [Funtoo](https://www.funtoo.org/) | Gentoo | Community source-based Linux project | [Website](https://www.funtoo.org/) |
+| [Calculate Linux](https://calculate-linux.org/) | Gentoo | Community Gentoo-family deployment system | [Website](https://calculate-linux.org/) |
+| [Redcore Linux](https://redcorelinux.org/) | Gentoo | Community Gentoo desktop | [Website](https://redcorelinux.org/) |
+| [Porteus](https://porteus.org/) | Slackware | Community portable Linux | [Website](https://porteus.org/) |
+| [Slax](https://www.slax.org/) | Debian | Community portable live Linux | [Website](https://www.slax.org/) |
+| [OpenWrt](https://openwrt.org/) | Linux | Community router/embedded operating system | [Website](https://openwrt.org/) |
+| [LibreELEC](https://libreelec.tv/) | Linux | Community media-center OS | [Website](https://libreelec.tv/) |
+| [postmarketOS](https://postmarketos.org/) | Alpine | Community smartphone Linux project | [Website](https://postmarketos.org/) |
+| [Mobian](https://mobian-project.org/) | Debian | Community mobile Debian project | [Website](https://mobian-project.org/) |
+| [Droidian](https://droidian.org/) | Debian | Community Linux mobile project for Android hardware | [Website](https://droidian.org/) |
+| [Raspberry Pi OS](https://www.raspberrypi.com/software/) | Debian | Community-supported Raspberry Pi desktop/server OS | [Website](https://www.raspberrypi.com/software/) |
+| [DietPi](https://dietpi.com/) | Debian | Lightweight community OS for SBCs and servers | [Website](https://dietpi.com/) |
+| [Armbian](https://www.armbian.com/) | Debian / Ubuntu | Community Linux for ARM single-board computers | [Website](https://www.armbian.com/) |
+| [LibreCMC](https://librecmc.org/) | OpenWrt | Free-software-focused router firmware | [Website](https://librecmc.org/) |
+| [Hyperbola GNU/Linux-libre](https://www.hyperbola.info/) | Arch / Debian lineage | Free-software-focused community Linux | [Website](https://www.hyperbola.info/) |
+| [Parabola GNU/Linux-libre](https://www.parabola.nu/) | Arch | Free-software-focused community Linux | [Website](https://www.parabola.nu/) |
 
 ## BSD and other Unix-like operating systems 🐚
 
@@ -338,6 +426,10 @@ A giant, community-friendly catalog of Linux distributions and other Unix-like o
 | [XigmaNAS](https://www.xigmanas.com/) | FreeBSD | NAS and storage server | [Website](https://www.xigmanas.com/) |
 | [FuryBSD](https://www.furybsd.org/) | FreeBSD | Desktop-focused FreeBSD project | [Website](https://www.furybsd.org/) |
 | [GhostBSD](https://www.ghostbsd.org/) | FreeBSD | Desktop BSD for everyday use | [Website](https://www.ghostbsd.org/) |
+| [MidnightBSD](https://www.midnightbsd.org/) | FreeBSD | Community desktop-oriented BSD | [Website](https://www.midnightbsd.org/) |
+| [HardenedBSD](https://hardenedbsd.org/) | FreeBSD | Security-hardened FreeBSD derivative | [Website](https://hardenedbsd.org/) |
+| [NomadBSD](https://nomadbsd.org/) | FreeBSD | Portable live FreeBSD desktop | [Website](https://nomadbsd.org/) |
+| [FreeNAS](https://www.truenas.com/) | FreeBSD lineage | Historical NAS operating system | [Website](https://www.truenas.com/) |
 
 ### illumos / OpenSolaris family
 
@@ -349,6 +441,8 @@ A giant, community-friendly catalog of Linux distributions and other Unix-like o
 | [OmniOS](https://omnios.org/) | illumos | Server-focused illumos distribution | [Website](https://omnios.org/) |
 | [Tribblix](https://www.tribblix.org/) | illumos | Lightweight Solaris-like Unix distribution | [Website](https://www.tribblix.org/) |
 | [OpenSolaris](https://en.wikipedia.org/wiki/OpenSolaris) | Solaris | Historical open-source Solaris project | [Wikipedia](https://en.wikipedia.org/wiki/OpenSolaris) |
+| [OmniOS Community Edition](https://omnios.org/) | illumos | Community server Unix | [Website](https://omnios.org/) |
+| [SmartOS](https://www.tritondatacenter.com/smartos) | illumos | Community cloud and virtualization platform | [Website](https://www.tritondatacenter.com/smartos) |
 
 ### Other Unix-like / alternative operating systems
 
@@ -374,6 +468,11 @@ A giant, community-friendly catalog of Linux distributions and other Unix-like o
 | [Genode](https://genode.org/) | Microkernel framework | Component-based secure OS framework | [Website](https://genode.org/) |
 | [seL4](https://sel4.systems/) | Microkernel | Formally verified microkernel ecosystem | [Website](https://sel4.systems/) |
 | [Inferno](https://www.vitanuova.com/inferno/) | Plan 9 lineage | Distributed operating-system environment | [Website](https://www.vitanuova.com/inferno/) |
+| [Collapse OS](https://collapseos.org/) | Forth / embedded | Experimental minimal system for resilient hardware | [Website](https://collapseos.org/) |
+| [MenuetOS](https://menuetos.net/) | Assembly | Tiny graphical operating system | [Website](https://menuetos.net/) |
+| [Syllable](https://syllable.metaproject.frl/) | BeOS-inspired | Historical lightweight desktop OS | [Website](https://syllable.metaproject.frl/) |
+| [AROS](https://www.aros.org/) | Amiga-like | Open-source AmigaOS-compatible platform | [Website](https://www.aros.org/) |
+| [MorphOS](https://www.morphos-team.net/) | Amiga-like | PowerPC/Amiga-inspired desktop OS | [Website](https://www.morphos-team.net/) |
 
 ## Distro discovery resources 🔎
 
@@ -392,6 +491,7 @@ Want to add another OS? Add it to the appropriate category with:
 3. Short description of what it is useful for
 4. Official project link when available
 5. Community/wiki link when an official site is unavailable
+6. If it is primarily community-run, consider adding it to **Community distributions** too
 
 Please avoid presenting a distro as objectively “best.” Different systems are built for different goals.
 
