@@ -39,609 +39,383 @@ The goal: **make this list huge** while explaining what each project is useful f
 - 🌍 Regional / national distributions
 - 🧑‍🔬 Hobby / from-scratch OSes
 - 🪟 Windows-compatible / alternative desktop OSes
+- 🕹️ Retro / arcade / console OSes
+- 📡 Network appliance / routing platforms
+- 🤖 AI / ML / compute-focused systems
+- 📦 Portable / live / multiboot systems
+- 🧱 Microkernel / research operating systems
+- 💾 SBC / Raspberry Pi / ARM systems
+- 📜 Classic / legacy Unix families
 - 📚 Distro indexes / discovery
 
-## Easy / beginner-friendly OSes 🙂
+## Additional desktop & community Linux 🖥️
 
 | OS | What it is for |
 |---|---|
-| [Linux Mint](https://linuxmint.com/) | Familiar everyday desktop Linux |
-| [Zorin OS](https://zorin.com/os/) | Beginner-friendly Windows-like desktop |
-| [Ubuntu](https://ubuntu.com/) | General desktop, server and development |
-| [Kubuntu](https://kubuntu.org/) | Ubuntu with KDE Plasma |
-| [Xubuntu](https://xubuntu.org/) | Lightweight Xfce desktop |
-| [Lubuntu](https://lubuntu.me/) | Lightweight LXQt desktop |
-| [Ubuntu MATE](https://ubuntu-mate.org/) | Traditional desktop workflow |
-| [Ubuntu Budgie](https://ubuntubudgie.org/) | Friendly Budgie desktop |
-| [Ubuntu Cinnamon](https://ubuntucinnamon.org/) | Cinnamon desktop |
-| [Ubuntu Unity](https://ubuntuunity.org/) | Unity-style desktop |
-| [elementary OS](https://elementary.io/) | Simple polished desktop |
-| [Pop!_OS](https://system76.com/pop) | Developer, creator and gaming desktop |
-| [Fedora Workstation](https://fedoraproject.org/workstation/) | Modern general-purpose desktop |
-| [openSUSE Leap](https://get.opensuse.org/leap/) | Stable desktop and administration |
-| [MX Linux](https://mxlinux.org/) | Practical Debian-based desktop |
-| [Peppermint OS](https://peppermintos.com/) | Lightweight everyday desktop |
-| [Q4OS](https://q4os.org/) | Traditional lightweight desktop |
-| [Linux Lite](https://www.linuxliteos.com/) | Beginner-friendly lightweight Linux |
-| [Puppy Linux](https://puppylinux-woof-ce.github.io/) | Tiny live desktop systems |
-| [Manjaro](https://manjaro.org/) | Easier Arch-based desktop |
-| [EndeavourOS](https://endeavouros.com/) | Friendly route toward Arch |
-| [Garuda Linux](https://garudalinux.org/) | Ready-to-use desktop and gaming |
-| [KDE neon](https://neon.kde.org/) | KDE-focused Ubuntu base |
-| [Deepin](https://www.deepin.org/) | Desktop-focused Linux |
-| [PikaOS](https://wiki.pika-os.com/) | Gaming-oriented Debian Linux |
-| [EasyOS](https://easyos.org/) | Experimental portable desktop Linux |
-| [Nobara](https://nobaraproject.org/) | Desktop/gaming-focused Fedora derivative |
-| [Ultramarine Linux](https://ultramarine-linux.org/) | Friendly Fedora-based desktop |
-| [SpiralLinux](https://spirallinux.github.io/) | Preconfigured Debian desktop |
-| [BunsenLabs](https://www.bunsenlabs.org/) | Lightweight Openbox desktop |
-| [Neptune](https://neptuneos.com/) | KDE-focused desktop |
-| [SparkyLinux](https://sparkylinux.org/) | Flexible desktop and lightweight editions |
-| [Feren OS](https://ferenos.weebly.com/) | User-friendly desktop Linux |
-| [MakuluLinux](https://www.makululinux.com/) | Feature-rich desktop Linux |
-| [ExTiX](https://www.extix.se/) | Debian/Ubuntu experimental desktop builds |
-| [Netrunner](https://www.netrunner.com/) | KDE-focused desktop Linux |
-| [Voyager Live](https://voyagerlive.org/) | Xfce-focused desktop |
-| [LXLE](https://www.lxle.net/) | Lightweight desktop |
+| [Bluestar Linux](https://sourceforge.net/projects/bluestarlinux/) | Arch-based desktop with desktop, developer and live editions |
+| [ArcoLinux](https://arcolinux.com/) | Arch learning and customization project |
+| [RebornOS](https://rebornos.org/) | Arch-based desktop with many configuration choices |
+| [Archman Linux](https://archman.org/) | Arch-based desktop distribution |
+| [Crystal Linux](https://getcryst.al/) | Modern Arch-based desktop project |
+| [CachyOS](https://cachyos.org/) | Performance-oriented Arch desktop |
+| [Astra Linux](https://astralinux.ru/) | Debian-based regional/enterprise Linux |
+| [Nitrux](https://nxos.org/) | Debian-based KDE-oriented desktop |
+| [Qubes OS](https://www.qubes-os.org/) | Security-oriented compartmentalized desktop |
+| [Mabox Linux](https://maboxlinux.org/) | Manjaro/Openbox-based desktop |
+| [FuryBSD](https://www.furybsd.org/) | FreeBSD desktop project |
+| [GhostBSD](https://ghostbsd.org/) | User-friendly FreeBSD desktop |
+| [MidnightBSD](https://www.midnightbsd.org/) | Desktop-oriented FreeBSD-derived OS |
+| [DragonFly BSD](https://www.dragonflybsd.org/) | BSD focused on performance and SMP design |
+| [NomadBSD](https://nomadbsd.org/) | Portable FreeBSD desktop/live system |
+| [HelloSystem](https://hellosystem.github.io/docs/) | FreeBSD-based desktop inspired by classic Mac UX |
+| [Revenge of the Cats](https://github.com/) | Example of the many small experimental/community Linux projects discoverable through source hosts |
 
-## Configuration-heavy / DIY OSes 🧩
-
-| OS / project | Why it belongs here |
-|---|---|
-| [Arch Linux](https://archlinux.org/) | Build the system around your own choices |
-| [Gentoo](https://www.gentoo.org/) | Compile and tune packages |
-| [Linux From Scratch](https://www.linuxfromscratch.org/) | Build Linux manually from source |
-| [Beyond Linux From Scratch](https://www.linuxfromscratch.org/blfs/) | Extend an LFS installation |
-| [NixOS](https://nixos.org/) | Declarative, reproducible configuration |
-| [GNU Guix System](https://guix.gnu.org/) | Programmatically define the system |
-| [Void Linux](https://voidlinux.org/) | Minimal rolling system with runit |
-| [Slackware](https://www.slackware.com/) | Hands-on Unix-style administration |
-| [CRUX](https://crux.nu/) | Minimal source-oriented Linux |
-| [Artix Linux](https://artixlinux.org/) | Arch with alternative init systems |
-| [Funtoo](https://www.funtoo.org/) | Source-based customization |
-| [Source Mage](https://sourcemage.org/) | Build software through spells |
-| [Bedrock Linux](https://bedrocklinux.org/) | Mix components from multiple Linux ecosystems |
-| [Calculate Linux](https://calculate-linux.org/) | Configurable Gentoo-derived systems |
-| [Redcore Linux](https://redcorelinux.org/) | Easier Gentoo-style system |
-| [Obarun](https://www.obarun.org/) | Systemd-free Arch derivative |
-| [Parabola GNU/Linux-libre](https://www.parabola.nu/) | Freedom-focused Arch derivative |
-| [Hyperbola](https://www.hyperbola.info/) | Freedom-focused community system |
-| [Chimera Linux](https://chimera-linux.org/) | Alternative modern Linux stack |
-| [Serpent OS](https://serpentos.com/) | Modern independent package/system design |
-| [AerynOS](https://aerynos.com/) | Independent configurable Linux |
-| [MocaccinoOS](https://www.mocaccino.org/) | Modular Gentoo-derived architecture |
-| [Porteus](https://porteus.org/) | Modular portable live Linux |
-| [OpenWrt](https://openwrt.org/) | Highly configurable embedded networking Linux |
-| [Buildroot](https://buildroot.org/) | Assemble custom embedded Linux images |
-| [Yocto Project](https://www.yoctoproject.org/) | Build highly customized embedded Linux |
-| [OpenEmbedded](https://www.openembedded.org/) | Metadata-driven embedded Linux builds |
-| [KISS Linux](https://kisslinux.org/) | Minimal source-oriented system |
-| [Carbs Linux](https://carbslinux.org/) | Simple source-oriented Linux |
-| [Oasis Linux](https://oasislinux.org/) | Extremely small Unix-like Linux |
-| [Venom Linux](https://venomlinux.org/) | Lightweight source-built Linux |
-| [GoboLinux](https://gobolinux.org/) | Alternative filesystem/package organization |
-| [NuTyX](https://www.nutyx.org/) | Modular independent Linux |
-
-## Desktop 🖥️
+## More Debian-family systems 🧬
 
 | OS | Focus |
 |---|---|
-| [KaOS](https://kaosx.us/) | KDE/Qt-focused desktop |
-| [Solus](https://getsol.us/) | Independent desktop Linux |
-| [Mageia](https://www.mageia.org/) | Community desktop/server Linux |
-| [PCLinuxOS](https://www.pclinuxos.com/) | User-friendly rolling desktop |
-| [OpenMandriva](https://www.openmandriva.org/) | Mandriva-descended desktop |
-| [ALT Linux](https://www.altlinux.org/) | Independent Linux family |
-| [Clear Linux](https://www.clearlinux.org/) | Performance-oriented Linux |
-| [antiX](https://antixlinux.com/) | Lightweight Debian desktop |
-| [4MLinux](https://4mlinux.com/) | Small desktop and utility distro |
-| [SliTaz](https://slitaz.org/) | Tiny desktop/live Linux |
-| [UbuntuDDE](https://ubuntudde.com/) | Deepin desktop on Ubuntu |
-| [Ubuntu Sway Remix](https://ubuntusway.com/) | Sway/Wayland desktop |
-| [Rhino Linux](https://rhinolinux.org/) | Rolling Ubuntu-based desktop |
-| [Vanilla OS](https://vanillaos.org/) | Modern immutable-oriented desktop |
-| [blendOS](https://blendos.co/) | Multi-distro/immutable concepts |
-| [AnduinOS](https://www.anduinos.com/) | Windows-like Ubuntu-based desktop |
-| [Ufficio Zero Linux](https://ufficiozero.org/) | Office-oriented desktop systems |
-| [Nitrux](https://nxos.org/) | Debian-based desktop with KDE technologies |
-| [Linuxfx](https://www.linuxfx.com/) | Windows-like Linux desktop |
-| [Kaisen Linux](https://kaisenlinux.org/) | Administration and desktop toolkit |
-| [Pearl Linux OS](https://pearl-mate.github.io/) | Community desktop Linux |
-| [Freespire](https://www.freespire.org/) | User-oriented Linux desktop |
+| [Devuan](https://www.devuan.org/) | Debian without systemd |
+| [Peppermint OS](https://peppermintos.com/) | Lightweight Debian-family desktop |
+| [Q4OS](https://q4os.org/) | Lightweight traditional Debian desktop |
+| [MX Linux](https://mxlinux.org/) | Debian-based practical desktop |
+| [antiX](https://antixlinux.com/) | Very lightweight Debian-based Linux |
+| [Bodhi Linux](https://www.bodhilinux.com/) | Lightweight Moksha desktop |
+| [Damn Small Linux](https://www.damnsmalllinux.org/) | Tiny Linux for constrained hardware |
+| [Knoppix](https://www.knopper.net/knoppix/) | Live Linux and rescue environment |
+| [Kali Linux](https://www.kali.org/) | Security testing and forensic work |
+| [Tails](https://tails.net/) | Privacy-focused live operating system |
+| [Whonix](https://www.whonix.org/) | Privacy-oriented virtualized Debian system |
+| [PureOS](https://pureos.net/) | Debian-based privacy/freedom-oriented desktop |
+| [Devuan GNU+Linux](https://www.devuan.org/) | Systemd-free Debian derivative |
+| [SparkyLinux](https://sparkylinux.org/) | Flexible lightweight Debian-based desktop |
+| [Ufficio Zero Linux](https://ufficiozero.org/) | Professional desktop variants based on Linux families |
+| [TurnKey Linux](https://www.turnkeylinux.org/) | Ready-to-deploy Debian-based server appliances |
+| [Finnix](https://www.finnix.org/) | Small Debian-based rescue environment |
+| [Grml](https://grml.org/) | Debian-based live system for system administrators |
 
-## Gaming 🎮
+## More Arch-family systems 🏹
 
-| OS / project | Focus |
+| OS | Focus |
 |---|---|
-| [SteamOS](https://store.steampowered.com/steamos/) | Steam gaming and handhelds |
-| [Bazzite](https://bazzite.gg/) | Fedora Atomic gaming desktop |
-| [Nobara](https://nobaraproject.org/) | Gaming-focused Fedora derivative |
-| [CachyOS](https://cachyos.org/) | Performance-oriented Arch gaming |
-| [Garuda Linux](https://garudalinux.org/) | Gaming-focused Arch desktop |
-| [ChimeraOS](https://chimeraos.org/) | Console-style PC gaming |
-| [PikaOS](https://wiki.pika-os.com/) | Gaming desktop |
-| [Regata OS](https://get.regataos.com/) | Gaming and general desktop |
-| [Lakka](https://www.lakka.tv/) | RetroArch console OS |
-| [Batocera](https://batocera.org/) | Retro gaming appliance |
-| [RetroPie](https://retropie.org.uk/) | Raspberry Pi retro gaming |
-| [Recalbox](https://www.recalbox.com/) | Retro gaming console system |
-| [HoloISO](https://github.com/HoloISO/holoiso) | SteamOS-like project |
-| [SteamFork](https://github.com/SteamFork) | Handheld Linux project |
-| [RetroDECK](https://retrodeck.net/) | Retro gaming environment |
-| [EmuELEC](https://www.emuelec.org/) | Emulation-focused embedded system |
-| [JELOS](https://github.com/JustEnoughLinuxOS/distribution) | Handheld gaming Linux project |
-| [AmberELEC](https://amberelec.org/) | Handheld retro-gaming Linux |
-| [Chimera Linux](https://chimera-linux.org/) | General Linux that can also serve gaming setups |
-
-## Ethical hacking & penetration testing 🛡️
-
-For **authorized** security testing, CTFs, labs, auditing, digital forensics, malware analysis and defensive research.
-
-| OS | What it is for |
-|---|---|
-| [Kali Linux](https://www.kali.org/) | Penetration testing and security auditing |
-| [Parrot Security](https://www.parrotsec.org/) | Security testing, privacy and development |
-| [BlackArch](https://blackarch.org/) | Arch-based security toolkit |
-| [Pentoo](https://www.pentoo.ch/) | Gentoo-based security environment |
-| [BackBox Linux](https://www.backbox.org/) | Security assessment |
-| [ArchStrike](https://archstrike.org/) | Arch security tooling |
-| [Fedora Security Lab](https://fedoraproject.org/labs/security) | Security auditing lab |
-| [NST](https://www.networksecuritytoolkit.org/) | Network security toolkit |
-| [CAINE](https://www.caine-live.net/) | Digital forensics |
-| [Tsurugi Linux](https://tsurugi-linux.org/) | Forensics and OSINT-oriented work |
-| [Security Onion](https://securityonionsolutions.com/) | Network monitoring and threat hunting |
-| [REMnux](https://remnux.org/) | Malware analysis and reverse engineering |
-| [Kali NetHunter](https://www.kali.org/get-kali/#kali-mobile) | Mobile security testing |
-| [Dracos Linux](https://dracos-linux.org/) | Security testing distribution |
-| [BackTrack](https://www.sourcearchive.com/documentation/backtrack/) | Historical security Linux |
-| [DEFT Linux](https://distrowatch.com/table.php?distribution=deft) | Historical digital forensics distro |
-| [Parrot Home](https://www.parrotsec.org/) | Privacy/development-oriented Parrot edition |
-
-## Terminal-only / CLI operating systems 💻
-
-| OS / project | What it is for |
-|---|---|
-| [Alpine Linux](https://www.alpinelinux.org/) | Tiny servers and containers |
-| [Arch Linux](https://archlinux.org/) | Minimal CLI-first installations |
-| [Debian](https://www.debian.org/) | Minimal servers and CLI systems |
-| [Void Linux](https://voidlinux.org/) | Lightweight rolling CLI systems |
-| [Gentoo](https://www.gentoo.org/) | Source-based CLI administration |
-| [Slackware](https://www.slackware.com/) | Traditional command-line administration |
-| [CRUX](https://crux.nu/) | Minimal experienced-user system |
-| [Linux From Scratch](https://www.linuxfromscratch.org/) | Manual Linux construction |
-| [Tiny Core Linux](http://tinycorelinux.net/) | Extremely small Linux |
-| [SliTaz](https://slitaz.org/) | Tiny live Linux |
-| [Buildroot](https://buildroot.org/) | Minimal embedded systems |
-| [OpenWrt](https://openwrt.org/) | CLI networking/router OS |
-| [OpenBSD](https://www.openbsd.org/) | Secure Unix-like server OS |
-| [FreeBSD](https://www.freebsd.org/) | Server/infrastructure Unix-like OS |
-| [NetBSD](https://www.netbsd.org/) | Portable Unix-like OS |
-| [9front](http://9front.org/) | Plan 9-inspired distributed OS |
-| [Plan 9](https://9p.io/plan9/) | Distributed research OS |
-| [FreeDOS](https://www.freedos.org/) | DOS-compatible command-line OS |
-| [MINIX](https://www.minix3.org/) | Educational/research Unix-like OS |
-| [Collapse OS](https://collapseos.org/) | Tiny constrained-computing OS |
-| [Carbs Linux](https://carbslinux.org/) | Minimal CLI-focused Linux |
-| [Oasis Linux](https://oasislinux.org/) | Minimal Unix-like environment |
-| [KISS Linux](https://kisslinux.org/) | Minimal source-oriented CLI system |
-| [Damn Small Linux](https://www.damnsmalllinux.org/) | Tiny legacy Linux project |
-
-## Major Linux distributions 🐧
-
-[Debian](https://www.debian.org/), [Ubuntu](https://ubuntu.com/), [Fedora](https://fedoraproject.org/), [Arch Linux](https://archlinux.org/), [Linux Mint](https://linuxmint.com/), [openSUSE](https://www.opensuse.org/), [Gentoo](https://www.gentoo.org/), [Slackware](https://www.slackware.com/), [Alpine Linux](https://www.alpinelinux.org/), [NixOS](https://nixos.org/), [Void Linux](https://voidlinux.org/), [Mageia](https://www.mageia.org/), [PCLinuxOS](https://www.pclinuxos.com/), [Solus](https://getsol.us/), [KaOS](https://kaosx.us/), [MX Linux](https://mxlinux.org/), [antiX](https://antixlinux.com/), [Puppy Linux](https://puppylinux-woof-ce.github.io/), [Knoppix](https://www.knopper.net/knoppix/), [Zorin OS](https://zorin.com/os/), [elementary OS](https://elementary.io/), [Pop!_OS](https://system76.com/pop), [KDE neon](https://neon.kde.org/), [Deepin](https://www.deepin.org/), [Peppermint OS](https://peppermintos.com/), [Q4OS](https://q4os.org/), [OpenMandriva](https://www.openmandriva.org/), [ALT Linux](https://www.altlinux.org/), [EasyOS](https://easyos.org/), [Chimera Linux](https://chimera-linux.org/), [Clear Linux](https://www.clearlinux.org/), [Calculate Linux](https://calculate-linux.org/), [Pardus](https://www.pardus.org.tr/en/), [Rosa Linux](https://www.rosalinux.eu/), [4MLinux](https://4mlinux.com/), [PorteuX](https://sourceforge.net/projects/porteux/), [Porteus](https://porteus.org/), [Slax](https://www.slax.org/).
-
-## Ubuntu family 🟠
-
-[Kubuntu](https://kubuntu.org/), [Xubuntu](https://xubuntu.org/), [Lubuntu](https://lubuntu.me/), [Ubuntu MATE](https://ubuntu-mate.org/), [Ubuntu Budgie](https://ubuntubudgie.org/), [Ubuntu Cinnamon](https://ubuntucinnamon.org/), [Ubuntu Unity](https://ubuntuunity.org/), [Ubuntu Studio](https://ubuntustudio.org/), [Ubuntu Kylin](https://www.ubuntukylin.com/), [Ubuntu Sway Remix](https://ubuntusway.com/), [UbuntuDDE](https://ubuntudde.com/), [Bodhi Linux](https://www.bodhilinux.com/), [Rhino Linux](https://rhinolinux.org/), [Linux Lite](https://www.linuxliteos.com/), [Ufficio Zero Linux](https://ufficiozero.org/), [Vanilla OS](https://vanillaos.org/), [Feren OS](https://ferenos.weebly.com/), [Peppermint OS](https://peppermintos.com/), [Regata OS](https://get.regataos.com/), [TUXEDO OS](https://www.tuxedocomputers.com/en/Operating-systems.tuxedoOS.tuxedoOS), [KDE neon](https://neon.kde.org/), [Linuxfx](https://sourceforge.net/projects/linuxfx/), [Zorin OS](https://zorin.com/os/).
-
-## Arch family 🏹
-
-| Project | Focus |
-|---|---|
+| [Arch Linux](https://archlinux.org/) | Minimal customizable Linux |
 | [Manjaro](https://manjaro.org/) | User-friendly Arch-based desktop |
-| [EndeavourOS](https://endeavouros.com/) | Arch with friendly installation |
-| [Garuda Linux](https://garudalinux.org/) | Gaming and desktop |
-| [CachyOS](https://cachyos.org/) | Performance-focused Arch |
-| [Artix Linux](https://artixlinux.org/) | Alternative init systems |
-| [BlackArch](https://blackarch.org/) | Security testing |
-| [ArchBang](https://archbang.org/) | Minimal Openbox-style desktop |
-| [ArchEX](https://sourceforge.net/projects/archex/) | Arch-based live systems |
-| [Archman](https://archman.org/) | Arch desktop distribution |
-| [Bluestar Linux](https://sourceforge.net/projects/bluestarlinux/) | KDE-focused Arch desktop |
-| [ChimeraOS](https://chimeraos.org/) | Gaming |
-| [Crystal Linux](https://getcryst.al/) | Modern Arch desktop |
-| [Hyperbola](https://www.hyperbola.info/) | Freedom-focused system |
-| [instantOS](https://instantos.io/) | Keyboard-oriented desktop |
-| [KaOS](https://kaosx.us/) | KDE/Qt-focused independent distro |
-| [MSYS2](https://www.msys2.org/) | Unix-like developer environment on Windows |
-| [Nyarch Linux](https://nyarchlinux.org/) | Community Arch desktop |
-| [Obarun](https://www.obarun.org/) | Systemd-free Arch derivative |
-| [Parabola](https://www.parabola.nu/) | GNU/Linux-libre and freedom |
-| [ParchLinux](https://parchlinux.com/) | Arch-based desktop |
-| [RebornOS](https://rebornos.org/) | Arch desktop with many choices |
-| [Snal Linux](https://snalinux.de/) | Community Arch project |
-| [SteamOS](https://store.steampowered.com/steamos/) | Gaming/handhelds |
-| [SystemRescue](https://www.system-rescue.org/) | Rescue and recovery |
-| [TeArch](https://tearch.org/) | Community Arch derivative |
-| [UBOS](https://ubos.net/) | Application/server appliance OS |
-| [Zenned](https://zenned.dev/) | Newer Arch-based project |
-| [Blunux](https://blunux.org/) | KDE-focused Arch derivative |
-| [AstrOS](https://github.com/AstrOS-Linux) | Experimental Arch-derived project |
-| [Silverarch Linux](https://s1lverarch.github.io/homewebsite/) | Specialized Arch derivative |
+| [EndeavourOS](https://endeavouros.com/) | Arch installation and community ecosystem |
+| [Garuda Linux](https://garudalinux.org/) | Feature-rich Arch desktop/gaming |
+| [CachyOS](https://cachyos.org/) | Performance-oriented Arch |
+| [ArcoLinux](https://arcolinux.com/) | Learning Arch and building custom desktops |
+| [Artix Linux](https://artixlinux.org/) | Arch without systemd |
+| [BlackArch](https://blackarch.org/) | Security-focused Arch ecosystem |
+| [ArchBang](https://archbang.org/) | Lightweight Arch desktop |
+| [Archcraft](https://archcraft.io/) | Minimal/beautiful Arch desktop |
+| [RebornOS](https://rebornos.org/) | Accessible Arch-based desktop |
 | [Arch Linux ARM](https://archlinuxarm.org/) | Arch for ARM devices |
-| [Arch Linux 32](https://archlinux32.org/) | Arch for 32-bit x86 |
-| [ArcoLinux](https://arcolinux.com/) | Arch learning/customization project |
-| [Archcraft](https://archcraft.io/) | Minimal/window-manager-oriented Arch |
-| [ArchLabs](https://sourceforge.net/projects/archlabs/) | Arch/Openbox community project |
-| [BigLinux](https://www.biglinux.com.br/) | Brazilian Arch-based desktop |
-| [Mabox Linux](https://maboxlinux.org/) | Openbox-based Arch desktop |
-| [TROMjaro](https://www.tromjaro.com/) | Community Arch desktop |
-| [XeroLinux](https://xerolinux.xyz/) | KDE-focused Arch project |
-| [ArchStrike](https://archstrike.org/) | Security-focused Arch ecosystem |
+| [Parabola GNU/Linux-libre](https://www.parabola.nu/) | Freedom-focused Arch derivative |
+| [Hyperbola](https://www.hyperbola.info/) | Freedom-focused lightweight Unix-like system |
+| [Obarun](https://www.obarun.org/) | systemd-free Arch derivative |
+| [KaOS](https://kaosx.us/) | Independent KDE/Qt-focused distribution |
+| [Bluestar Linux](https://sourceforge.net/projects/bluestarlinux/) | Arch desktop with multiple editions |
+| [ArchStrike](https://archstrike.org/) | Arch-based security repository/ecosystem |
 
-## Fedora / Red Hat family 🔴
+## More Fedora / Red Hat / RPM-family systems 🎩
 
-[Fedora Workstation](https://fedoraproject.org/workstation/), [Fedora Server](https://fedoraproject.org/server/), [RHEL](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux), [Rocky Linux](https://rockylinux.org/), [AlmaLinux](https://almalinux.org/), [Oracle Linux](https://www.oracle.com/linux/), [Nobara](https://nobaraproject.org/), [Bazzite](https://bazzite.gg/), [Universal Blue](https://universal-blue.org/), [Ultramarine Linux](https://ultramarine-linux.org/), [Fedora Silverblue](https://fedoraproject.org/atomic-desktops/silverblue/), [Fedora Kinoite](https://fedoraproject.org/atomic-desktops/kinoite/), [Fedora CoreOS](https://fedoraproject.org/coreos/), [Fedora Sway Atomic](https://fedoraproject.org/atomic-desktops/sway-atomic/), [Anolis OS](https://openanolis.org/), [EuroLinux](https://euro-linux.com/), [Amazon Linux](https://aws.amazon.com/linux/), [TencentOS Server](https://cloud.tencent.com/product/ts), [Alibaba Cloud Linux](https://www.alibabacloud.com/product/alibaba-cloud-linux), [openEuler](https://www.openeuler.org/), [MIRACLE LINUX](https://www.miraclelinux.com/), [Asianux](https://www.asianux.com/), [PikaOS](https://wiki.pika-os.com/), [RisiOS](https://risi.io/), [Qubes OS](https://www.qubes-os.org/).
-
-## Debian family / specialist 🌀
-
-[Kali Linux](https://www.kali.org/), [Parrot OS](https://www.parrotsec.org/), [Tails](https://tails.net/), [PureOS](https://pureos.net/), [Devuan](https://www.devuan.org/), [LMDE](https://www.linuxmint.com/download_lmde.php), [TurnKey Linux](https://www.turnkeylinux.org/), [Whonix](https://www.whonix.org/), [AV Linux](https://www.bandshed.net/avlinux/), [KXStudio](https://kx.studio/), [SparkyLinux](https://sparkylinux.org/), [KANOTIX](https://www.kanotix.com/), [Neptune](https://neptuneos.com/), [BunsenLabs](https://www.bunsenlabs.org/), [Slax](https://www.slax.org/), [Grml](https://grml.org/), [SpiralLinux](https://spirallinux.github.io/), [Siduction](https://siduction.org/), [antiX](https://antixlinux.com/), [MX Linux](https://mxlinux.org/), [SystemRescue](https://www.system-rescue.org/), [Kaisen Linux](https://kaisenlinux.org/), [Mabox](https://maboxlinux.org/), [Peppermint OS](https://peppermintos.com/), [Refracta](https://www.ibiblio.org/refracta/), [Distro Astro](https://www.distroastro.org/), [Deepin](https://www.deepin.org/), [Nitrux](https://nxos.org/), [Q4OS](https://q4os.org/), [Feren OS](https://ferenos.weebly.com/).
-
-## Lightweight 🪶
-
-[antiX](https://antixlinux.com/), [Puppy Linux](https://puppylinux-woof-ce.github.io/), [Bodhi Linux](https://www.bodhilinux.com/), [Lubuntu](https://lubuntu.me/), [Xubuntu](https://xubuntu.org/), [Linux Lite](https://www.linuxliteos.com/), [Q4OS](https://q4os.org/), [BunsenLabs](https://www.bunsenlabs.org/), [Porteus](https://porteus.org/), [Slax](https://www.slax.org/), [Tiny Core Linux](http://tinycorelinux.net/), [SliTaz](https://slitaz.org/), [4MLinux](https://4mlinux.com/), [Damn Small Linux](https://www.damnsmalllinux.org/), [Mabox Linux](https://maboxlinux.org/), [Peppermint OS](https://peppermintos.com/), [Carbs Linux](https://carbslinux.org/), [Oasis Linux](https://oasislinux.org/), [KISS Linux](https://kisslinux.org/), [SparkyLinux](https://sparkylinux.org/), [PorteuX](https://sourceforge.net/projects/porteux/), [SliTaz](https://sourceforge.net/projects/slitaz/), [Tiny Core Linux](https://sourceforge.net/projects/tinycore/), [Puppy Linux](https://sourceforge.net/projects/puppylinux/), [4MLinux](https://sourceforge.net/projects/4mlinux/), [Damn Small Linux](https://sourceforge.net/projects/damnsmalllinux/).
-
-## Developer 🛠️
-
-[Fedora Workstation](https://fedoraproject.org/workstation/), [Ubuntu](https://ubuntu.com/), [Pop!_OS](https://system76.com/pop), [NixOS](https://nixos.org/), [Arch Linux](https://archlinux.org/), [openSUSE Tumbleweed](https://get.opensuse.org/tumbleweed/), [Gentoo](https://www.gentoo.org/), [Debian](https://www.debian.org/), [Alpine Linux](https://www.alpinelinux.org/), [GNU Guix System](https://guix.gnu.org/), [Void Linux](https://voidlinux.org/), [Clear Linux](https://www.clearlinux.org/), [Ubuntu Studio](https://ubuntustudio.org/), [FreeBSD](https://www.freebsd.org/), [OpenBSD](https://www.openbsd.org/), [NetBSD](https://www.netbsd.org/), [Haiku](https://www.haiku-os.org/), [Redox OS](https://www.redox-os.org/), [Serpent OS](https://serpentos.com/), [AerynOS](https://aerynos.com/), [Chimera Linux](https://chimera-linux.org/), [Fedora Asahi Remix](https://fedoramagazine.org/introducing-fedora-asahi-remix/), [MSYS2](https://www.msys2.org/), [Cygwin](https://www.cygwin.com/), [SUSE Studio](https://www.suse.com/products/suse-studio/), [newOS](https://github.com/leizongmin/newos), [CusDeb OS](https://github.com/cusdeb-com/os), [kmOS](https://github.com/kkmonlee/kmOS).
-
-## Enterprise 🏢
-
-[RHEL](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux), [SUSE Linux Enterprise](https://www.suse.com/products/server/), [Rocky Linux](https://rockylinux.org/), [AlmaLinux](https://almalinux.org/), [Oracle Linux](https://www.oracle.com/linux/), [Anolis OS](https://openanolis.org/), [EuroLinux](https://euro-linux.com/), [ALT Linux](https://www.altlinux.org/), [openEuler](https://www.openeuler.org/), [Amazon Linux](https://aws.amazon.com/linux/), [MIRACLE LINUX](https://www.miraclelinux.com/), [Asianux](https://www.asianux.com/), [SUSE Linux Enterprise Micro](https://www.suse.com/products/micro/), [Fedora CoreOS](https://fedoraproject.org/coreos/), [Ubuntu Pro](https://ubuntu.com/pro), [Univention Corporate Server](https://www.univention.com/products/ucs/), [ClearOS](https://www.clearos.com/), [Debian](https://www.debian.org/), [Ubuntu Server](https://ubuntu.com/server), [OpenMandriva](https://www.openmandriva.org/).
-
-## Advanced / source-based 🧪
-
-[GNU Guix System](https://guix.gnu.org/), [CRUX](https://crux.nu/), [Linux From Scratch](https://www.linuxfromscratch.org/), [BLFS](https://www.linuxfromscratch.org/blfs/), [Funtoo](https://www.funtoo.org/), [Calculate Linux](https://calculate-linux.org/), [Redcore Linux](https://redcorelinux.org/), [Source Mage](https://sourcemage.org/), [Bedrock Linux](https://bedrocklinux.org/), [Serpent OS](https://serpentos.com/), [AerynOS](https://aerynos.com/), [MocaccinoOS](https://www.mocaccino.org/), [Chimera Linux](https://chimera-linux.org/), [Gentoo](https://www.gentoo.org/), [Slackware](https://www.slackware.com/), [GoboLinux](https://gobolinux.org/), [NuTyX](https://www.nutyx.org/), [Carbs Linux](https://carbslinux.org/), [Oasis Linux](https://oasislinux.org/), [KISS Linux](https://kisslinux.org/), [Venom Linux](https://venomlinux.org/), [Lunar Linux](https://lunar-linux.org/), [Sorcerer](https://sourceforge.net/projects/sorcerer/), [Parted Magic](https://partedmagic.com/).
-
-## Immutable / atomic 📦
-
-[Fedora Silverblue](https://fedoraproject.org/atomic-desktops/silverblue/), [Fedora Kinoite](https://fedoraproject.org/atomic-desktops/kinoite/), [Fedora Sway Atomic](https://fedoraproject.org/atomic-desktops/sway-atomic/), [Bazzite](https://bazzite.gg/), [Universal Blue](https://universal-blue.org/), [Vanilla OS](https://vanillaos.org/), [blendOS](https://blendos.co/), [openSUSE Aeon](https://aeondesktop.org/), [openSUSE MicroOS](https://microos.opensuse.org/), [Fedora CoreOS](https://fedoraproject.org/coreos/), [Project Bluefin](https://projectbluefin.io/), [Project Aurora](https://getaurora.dev/), [Endless OS](https://www.endlessos.org/), [SteamOS](https://store.steampowered.com/steamos/), [PikaOS](https://wiki.pika-os.com/), [Talos Linux](https://www.talos.dev/), [Flatcar Container Linux](https://www.flatcar.org/), [Bottlerocket](https://aws.amazon.com/bottlerocket/), [Fedora CoreOS](https://fedoraproject.org/coreos/).
-
-## Mobile & embedded 📱
-
-[postmarketOS](https://postmarketos.org/), [Mobian](https://mobian-project.org/), [Ubuntu Touch](https://ubports.com/), [Sailfish OS](https://sailfishos.org/), [Plasma Mobile](https://plasma-mobile.org/), [Droidian](https://droidian.org/), [Buildroot](https://buildroot.org/), [Yocto Project](https://www.yoctoproject.org/), [OpenEmbedded](https://www.openembedded.org/), [LibreELEC](https://libreelec.tv/), [Armbian](https://www.armbian.com/), [OpenWrt](https://openwrt.org/), [Apertis](https://www.apertis.org/), [Arch Linux ARM](https://archlinuxarm.org/), [NixOS](https://nixos.org/), [DahliaOS](https://dahliaos.io/), [Fuchsia](https://fuchsia.dev/), [Android Open Source Project](https://source.android.com/), [DietPi](https://dietpi.com/), [Raspberry Pi OS](https://www.raspberrypi.com/software/), [RISC OS](https://www.riscosopen.org/), [Alpine Linux](https://www.alpinelinux.org/), [OpenHarmony](https://www.openharmony.cn/), [KaiOS](https://www.kaiostech.com/), [postmarketOS](https://sourceforge.net/projects/postmarketos/).
-
-## Server / self-hosting 🖥️
-
-[Ubuntu Server](https://ubuntu.com/server), [Debian](https://www.debian.org/), [Alpine Linux](https://www.alpinelinux.org/), [OpenWrt](https://openwrt.org/), [VyOS](https://vyos.io/), [TrueNAS SCALE](https://www.truenas.com/truenas-scale/), [TrueNAS CORE](https://www.truenas.com/truenas-core/), [OpenMediaVault](https://www.openmediavault.org/), [TurnKey Linux](https://www.turnkeylinux.org/), [DietPi](https://dietpi.com/), [Armbian](https://www.armbian.com/), [umbrelOS](https://umbrel.com/umbrelos), [CasaOS](https://casaos.io/), [Proxmox VE](https://www.proxmox.com/en/proxmox-virtual-environment), [Univention Corporate Server](https://www.univention.com/products/ucs/), [Rocky Linux](https://rockylinux.org/), [AlmaLinux](https://almalinux.org/), [XigmaNAS](https://www.xigmanas.com/), [Rockstor](https://rockstor.com/), [YunoHost](https://yunohost.org/), [FreedomBox](https://www.freedombox.org/), [Raspberry Pi OS](https://www.raspberrypi.com/software/), [newOS](https://github.com/leizongmin/newos), [CusDeb OS](https://github.com/cusdeb-com/os).
-
-## Networking / router / firewall OSes 🌐
-
-| OS | What it is for |
+| OS | Focus |
 |---|---|
-| [OpenWrt](https://openwrt.org/) | Open router and embedded networking platform |
-| [VyOS](https://vyos.io/) | Router/firewall/network appliance OS |
-| [OPNsense](https://opnsense.org/) | FreeBSD-based firewall/router |
-| [pfSense](https://www.pfsense.org/) | FreeBSD-based firewall/router |
-| [IPFire](https://www.ipfire.org/) | Firewall and network appliance |
-| [Endian Firewall](https://www.endian.com/community/) | Firewall/security appliance |
-| [Zeroshell](https://www.zeroshell.org/) | Network appliance Linux |
-| [ClearOS](https://www.clearos.com/) | Small-business server/network OS |
-| [RouterOS](https://mikrotik.com/software) | Router/network operating system |
-| [OpenBSD](https://www.openbsd.org/) | Secure network services |
-| [OPNsense](https://sourceforge.net/projects/opnsense.mirror/) | Firewall project mirrored on SourceForge |
-| [VyOS](https://sourceforge.net/projects/vyos/) | Router OS project on SourceForge |
-| [IPFire](https://sourceforge.net/projects/ipfire/) | Firewall Linux project on SourceForge |
-| [Zeroshell](https://sourceforge.net/projects/zeroshell/) | Network appliance project on SourceForge |
-| [ClearOS](https://sourceforge.net/projects/clearfoundation/) | Network/server Linux project |
-| [pfSense CE](https://www.pfsense.org/) | Community firewall/router platform |
-| [OPNsense](https://opnsense.org/) | Hardened FreeBSD-based networking platform |
+| [Fedora Workstation](https://fedoraproject.org/workstation/) | Modern desktop Linux |
+| [Fedora Server](https://fedoraproject.org/server/) | Server workloads |
+| [Fedora IoT](https://fedoraproject.org/iot/) | Edge and IoT systems |
+| [Fedora CoreOS](https://fedoraproject.org/coreos/) | Automated container hosts |
+| [Fedora Silverblue](https://fedoraproject.org/atomic-desktops/silverblue/) | Immutable GNOME desktop |
+| [Fedora Kinoite](https://fedoraproject.org/atomic-desktops/kinoite/) | Immutable KDE desktop |
+| [Nobara](https://nobaraproject.org/) | Fedora desktop/gaming derivative |
+| [Ultramarine Linux](https://ultramarine-linux.org/) | Friendly Fedora-based desktop |
+| [Qubes OS](https://www.qubes-os.org/) | Security-focused Xen-based desktop |
+| [Rocky Linux](https://rockylinux.org/) | Enterprise-compatible RHEL rebuild |
+| [AlmaLinux](https://almalinux.org/) | Community enterprise Linux |
+| [Oracle Linux](https://www.oracle.com/linux/) | Enterprise Linux |
+| [RHEL](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux) | Commercial enterprise Linux |
+| [openEuler](https://www.openeuler.org/) | Enterprise/server Linux ecosystem |
+| [EuroLinux](https://euro-linux.com/) | Enterprise-compatible RPM Linux |
+| [VZLinux](https://vzlinux.org/) | Enterprise-compatible Linux |
+| [ClearOS](https://www.clearos.com/) | Server/network-oriented Linux |
+| [Scientific Linux](https://scientificlinux.org/) | Historical RHEL-derived scientific Linux |
+| [Asianux](https://www.asianux.com/) | Enterprise Linux family |
 
-## Rescue / recovery / live systems 💾
+## More independent / unusual Linux systems 🧪
 
-[SystemRescue](https://www.system-rescue.org/), [GParted Live](https://gparted.org/livecd.php), [Rescatux](https://www.supergrubdisk.org/rescatux/), [Clonezilla Live](https://clonezilla.org/clonezilla-live.php), [Finnix](https://www.finnix.org/), [Grml](https://grml.org/), [Knoppix](https://www.knopper.net/knoppix/), [Ultimate Boot CD](https://www.ultimatebootcd.com/), [Rescuezilla](https://rescuezilla.com/), [Parted Magic](https://partedmagic.com/), [MediCat USB](https://medicatusb.com/), [Porteus](https://porteus.org/), [Slax](https://www.slax.org/), [Puppy Linux](https://puppylinux-woof-ce.github.io/), [Finnix](https://sourceforge.net/projects/finnix/), [SystemRescue](https://sourceforge.net/projects/systemrescue/), [Clonezilla](https://sourceforge.net/projects/clonezilla/), [GParted](https://sourceforge.net/projects/gparted/), [Rescatux](https://sourceforge.net/projects/rescatux/), [Rescuezilla](https://sourceforge.net/projects/rescuezilla/), [Knoppix](https://sourceforge.net/projects/knoppix/), [Ultimate Boot CD](https://sourceforge.net/projects/ubcd/).
-
-## Multimedia / creative OSes 🎬
-
-| OS / project | Focus |
+| OS | Focus |
 |---|---|
-| [Ubuntu Studio](https://ubuntustudio.org/) | Audio, video and graphics |
-| [AV Linux](https://www.bandshed.net/avlinux/) | Audio/video production |
-| [KXStudio](https://kx.studio/) | Linux audio production |
-| [Fedora Design Suite](https://fedoraproject.org/labs/design-suite/) | Graphic design |
-| [Fedora Jam](https://fedoraproject.org/labs/jam/) | Music production |
-| [Dyne:bolic](https://dyne.org/software/dynebolic/) | Multimedia/live production heritage |
-| [io GNU/Linux](https://io.gnu.linux.free.fr/) | Multimedia-focused Linux |
-| [ArtistX](https://sourceforge.net/projects/artistx/) | Historical multimedia Linux |
-| [Dream Studio](https://sourceforge.net/projects/dreamstudio/) | Historical creative Linux |
+| [Alpine Linux](https://www.alpinelinux.org/) | Small secure musl-based Linux |
+| [Void Linux](https://voidlinux.org/) | Independent rolling Linux with runit |
+| [Chimera Linux](https://chimera-linux.org/) | Independent Linux using a modern toolchain |
+| [Serpent OS](https://serpentos.com/) | Independent modern Linux design |
+| [AerynOS](https://aerynos.com/) | Independent desktop Linux |
+| [Solus](https://getsol.us/) | Independent desktop Linux |
+| [Mageia](https://www.mageia.org/) | Community Linux descended from Mandriva |
+| [OpenMandriva](https://www.openmandriva.org/) | Independent Mandriva-descended Linux |
+| [PCLinuxOS](https://www.pclinuxos.com/) | User-friendly rolling RPM Linux |
+| [NuTyX](https://www.nutyx.org/) | Independent modular Linux |
+| [Funtoo](https://www.funtoo.org/) | Gentoo-descended source Linux |
+| [MocaccinoOS](https://www.mocaccino.org/) | Modular Gentoo-derived system |
+| [Calculate Linux](https://calculate-linux.org/) | Gentoo-based desktop/server ecosystem |
+| [Redcore Linux](https://redcorelinux.org/) | Gentoo-derived user-friendly system |
+| [Source Mage](https://sourcemage.org/) | Source-based Linux using spells |
+| [Carbs Linux](https://carbslinux.org/) | Minimal source-oriented Linux |
+| [Venom Linux](https://venomlinux.org/) | Lightweight source-built Linux |
+| [GoboLinux](https://gobolinux.org/) | Alternative filesystem hierarchy |
+| [Oniro OS](https://oniroproject.org/) | Open-source embedded/edge OS ecosystem |
+| [T2 SDE](https://t2sde.org/) | Build-your-own Linux/Unix system framework |
+| [EasyOS](https://easyos.org/) | Experimental containerized portable Linux |
 
-## Scientific / workstation OSes 🧠
+## Privacy, anonymity & secure-live systems 🔐
 
-[Fedora Scientific](https://fedoraproject.org/), [Scientific Linux](https://scientificlinux.org/), [Bio-Linux](https://nebc.nerc.ac.uk/tools/bio-linux/), [CAELinux](https://www.caelinux.com/), [Poseidon Linux](https://www.poseidonlinux.org/), [Qlustar](https://www.qlustar.com/), [OpenHPC](https://openhpc.community/), [Ubuntu](https://ubuntu.com/), [Debian](https://www.debian.org/), [Rocky Linux](https://rockylinux.org/), [AlmaLinux](https://almalinux.org/), [Distro Astro](https://www.distroastro.org/), [Quantian](https://sourceforge.net/projects/quantian/), [OpenHPC](https://sourceforge.net/projects/openhpc/).
+| OS | Focus |
+|---|---|
+| [Tails](https://tails.net/) | Amnesic privacy-focused live system |
+| [Whonix](https://www.whonix.org/) | Tor-oriented virtualized privacy system |
+| [Qubes OS](https://www.qubes-os.org/) | Security through isolation/compartmentalization |
+| [PureOS](https://pureos.net/) | Privacy/freedom-oriented Debian system |
+| [Kicksecure](https://www.kicksecure.com/) | Hardened Debian base for security/privacy |
+| [Parrot OS](https://www.parrotsec.org/) | Security, privacy and development |
+| [Kodachi](https://www.digi77.com/linux-kodachi/) | Privacy-focused Linux environment |
+| [Septor](https://septor.sourceforge.io/) | Privacy-oriented Debian live system |
+| [Heads](https://heads.neocities.org/) | Security/privacy-oriented Linux project |
+| [Discreete Linux](https://www.privacy-cd.org/) | Historical privacy-oriented live system |
 
-## Security & privacy 🔐
+## Networking / router / firewall platforms 📡
 
-[Tails](https://tails.net/), [Whonix](https://www.whonix.org/), [Qubes OS](https://www.qubes-os.org/), [PureOS](https://pureos.net/), [Kali Linux](https://www.kali.org/), [Parrot OS](https://www.parrotsec.org/), [BlackArch](https://blackarch.org/), [Pentoo](https://www.pentoo.ch/), [CAINE](https://www.caine-live.net/), [REMnux](https://remnux.org/), [Tsurugi Linux](https://tsurugi-linux.org/), [Security Onion](https://securityonionsolutions.com/), [Kodachi](https://www.digi77.com/linux-kodachi/), [Septor](https://septor.sourceforge.io/), [Kicksecure](https://www.kicksecure.com/), [SecureDrop](https://securedrop.org/), [OpenBSD](https://www.openbsd.org/), [HardenedBSD](https://hardenedbsd.org/), [Qubes OS](https://sourceforge.net/projects/qubes-os/), [Tails](https://sourceforge.net/projects/tails/), [Whonix](https://sourceforge.net/projects/whonix/), [Parrot Security](https://sourceforge.net/projects/parrotsec/), [Kali Linux](https://sourceforge.net/projects/kalilinux/).
+| OS / platform | Focus |
+|---|---|
+| [OpenWrt](https://openwrt.org/) | Highly customizable router/embedded Linux |
+| [OPNsense](https://opnsense.org/) | FreeBSD-based firewall/router platform |
+| [pfSense](https://www.pfsense.org/) | FreeBSD-based firewall/router platform |
+| [VyOS](https://vyos.io/) | Linux-based network operating system |
+| [IPFire](https://www.ipfire.org/) | Linux firewall/router distribution |
+| [Endian Firewall](https://www.endian.com/community/) | Firewall/security appliance Linux |
+| [ClearOS](https://www.clearos.com/) | Network/server platform |
+| [Untangle](https://www.untangle.com/) | Network security gateway platform |
+| [Zeroshell](https://www.zeroshell.org/) | Linux network appliance |
+| [RouterOS](https://mikrotik.com/software) | Network operating system for MikroTik hardware/CHR |
+| [OpenBSD](https://www.openbsd.org/) | Secure Unix often used for network services |
+| [FreeBSD](https://www.freebsd.org/) | Networking/server Unix-like OS |
+| [BSD Router Project](https://bsdrp.net/) | FreeBSD-based routing distribution |
+| [IPFire](https://www.ipfire.org/) | Firewall and router distribution |
+| [OPNsense](https://opnsense.org/) | Firewall and routing platform |
 
-## Community distributions 🤝
+## Retro / arcade / console systems 🕹️
 
-Community-driven projects and smaller distributions are a major part of the Linux ecosystem.
+| OS | Focus |
+|---|---|
+| [Batocera](https://batocera.org/) | Retro-gaming appliance |
+| [Lakka](https://www.lakka.tv/) | RetroArch-based console OS |
+| [Recalbox](https://www.recalbox.com/) | Plug-and-play retro gaming |
+| [RetroPie](https://retropie.org.uk/) | Raspberry Pi retro-gaming platform |
+| [RetroDECK](https://retrodeck.net/) | Flatpak-based retro gaming environment |
+| [EmuELEC](https://www.emuelec.org/) | Embedded emulation system |
+| [AmberELEC](https://amberelec.org/) | Handheld retro-gaming Linux |
+| [JELOS](https://github.com/JustEnoughLinuxOS/distribution) | Handheld Linux gaming project |
+| [ArkOS](https://github.com/christianhaitian/arkos) | Handheld retro-gaming Linux |
+| [Batocera.linux](https://batocera.org/) | Linux-based gaming appliance |
+| [ChimeraOS](https://chimeraos.org/) | Console-style PC gaming |
+| [SteamOS](https://store.steampowered.com/steamos/) | Steam gaming OS |
+
+## ARM / Raspberry Pi / SBC systems 💾
+
+| OS | Focus |
+|---|---|
+| [Raspberry Pi OS](https://www.raspberrypi.com/software/) | Official Raspberry Pi desktop/server OS |
+| [Ubuntu for Raspberry Pi](https://ubuntu.com/raspberry-pi) | Ubuntu on Raspberry Pi |
+| [Arch Linux ARM](https://archlinuxarm.org/) | Arch for ARM boards |
+| [Alpine Linux](https://www.alpinelinux.org/) | Small ARM/server Linux |
+| [DietPi](https://dietpi.com/) | Lightweight SBC/server OS |
+| [Armbian](https://www.armbian.com/) | Debian/Ubuntu-based SBC Linux |
+| [LibreELEC](https://libreelec.tv/) | Minimal Kodi media OS |
+| [OpenELEC](https://openelec.tv/) | Historical Kodi appliance Linux |
+| [Volumio](https://volumio.com/) | Music-focused embedded Linux |
+| [OpenWrt](https://openwrt.org/) | Embedded networking Linux |
+| [Batocera](https://batocera.org/) | Gaming-focused SBC Linux |
+| [DietPi](https://dietpi.com/) | Minimal optimized Debian-based SBC OS |
+| [postmarketOS](https://postmarketos.org/) | Linux distribution for mobile devices |
+| [Mobian](https://mobian.org/) | Debian-based mobile Linux |
+| [Sailfish OS](https://sailfishos.org/) | Mobile Linux-based OS |
+
+## AI / ML / compute-oriented systems 🤖
+
+| OS / platform | Focus |
+|---|---|
+| [Ubuntu](https://ubuntu.com/) | General AI/ML workstation and server base |
+| [Pop!_OS](https://system76.com/pop) | Developer/creator workstation with GPU support |
+| [NVIDIA DGX OS](https://www.nvidia.com/en-us/data-center/dgx-platform/) | NVIDIA AI infrastructure software stack |
+| [Rocky Linux](https://rockylinux.org/) | Enterprise compute and research workloads |
+| [AlmaLinux](https://almalinux.org/) | Enterprise-compatible compute platform |
+| [Fedora Workstation](https://fedoraproject.org/workstation/) | Developer and workstation workloads |
+| [OpenHPC](https://openhpc.community/) | HPC software ecosystem rather than a standalone distro |
+| [Warewulf](https://warewulf.org/) | Cluster provisioning and HPC infrastructure |
+| [Rocky Linux](https://rockylinux.org/) | HPC/server workloads |
+
+## Live / rescue / recovery systems 💾
+
+| OS | Focus |
+|---|---|
+| [SystemRescue](https://www.system-rescue.org/) | System repair and recovery |
+| [Rescuezilla](https://rescuezilla.com/) | Backup, cloning and recovery GUI |
+| [Redo Rescue](https://sourceforge.net/projects/redorescue/) | Backup and recovery |
+| [Clonezilla Live](https://clonezilla.org/) | Disk cloning and imaging |
+| [GParted Live](https://gparted.org/livecd.php) | Partition management |
+| [Finnix](https://www.finnix.org/) | Small administrator rescue environment |
+| [Grml](https://grml.org/) | Debian live system for admins |
+| [Knoppix](https://www.knopper.net/knoppix/) | Live Linux and rescue toolkit |
+| [Parted Magic](https://partedmagic.com/) | Commercial partition/recovery environment |
+| [Ultimate Boot CD](https://www.ultimatebootcd.com/) | Legacy bootable diagnostics collection |
+| [Hiren's BootCD PE](https://www.hirensbootcd.org/) | Windows PE recovery environment |
+| [MediCat USB](https://medicatusb.com/) | Portable recovery toolkit |
+| [SystemRescue](https://www.system-rescue.org/) | Linux-based repair toolkit |
+
+## Multimedia / HTPC / media OSes 📺
+
+| OS | Focus |
+|---|---|
+| [LibreELEC](https://libreelec.tv/) | Minimal Kodi media center |
+| [CoreELEC](https://coreelec.org/) | Kodi-focused embedded Linux |
+| [OSMC](https://osmc.tv/) | Kodi-based media center |
+| [Volumio](https://volumio.com/) | Network music player OS |
+| [Moode Audio](https://moodeaudio.org/) | Audiophile Raspberry Pi distribution |
+| [Daphile](https://www.daphile.com/) | Audiophile music server |
+| [RuneAudio](https://www.runeaudio.com/) | Network audio player project |
+| [GeeXboX](https://geexbox.org/) | Historical lightweight media-center Linux |
+| [OpenELEC](https://openelec.tv/) | Historical Kodi appliance OS |
+| [LibreELEC](https://libreelec.tv/) | Just-enough OS for Kodi |
+
+## Microkernel / research operating systems 🧠
+
+| OS | Focus |
+|---|---|
+| [MINIX 3](https://www.minix3.org/) | Microkernel research and education |
+| [HelenOS](https://www.helenos.org/) | Research operating system |
+| [seL4](https://sel4.systems/) | Formally verified microkernel technology |
+| [Genode](https://genode.org/) | Operating-system framework built around isolation |
+| [Fuchsia](https://fuchsia.dev/) | Research/production-oriented OS platform |
+| [Barrelfish](https://www.barrelfish.org/) | Multikernel research OS |
+| [Redox](https://www.redox-os.org/) | Rust-based microkernel OS |
+| [NOVA](https://www.hypervisor.org/) | Microhypervisor research project |
+| [Singularity](https://en.wikipedia.org/wiki/Singularity_(operating_system)) | Historical research OS |
+| [Inferno](https://www.vitanuova.com/inferno/) | Distributed OS descended from Plan 9 ideas |
+| [Plan 9](https://9p.io/plan9/) | Distributed research operating system |
+| [9front](http://9front.org/) | Active Plan 9 distribution/community |
+
+## More hobby / from-scratch operating systems 🧑‍🔬
+
+| OS | Focus |
+|---|---|
+| [SerenityOS](https://serenityos.org/) | From-scratch Unix-like desktop OS |
+| [Redox](https://www.redox-os.org/) | Rust-based Unix-like OS |
+| [ToaruOS](https://github.com/klange/toaruos) | Hobby Unix-like desktop OS |
+| [Sortix](https://sortix.org/) | Small Unix-like OS |
+| [MenuetOS](https://menuetos.net/) | Assembly-focused tiny OS |
+| [KolibriOS](https://kolibrios.org/) | Tiny assembly-based OS |
+| [Visopsys](https://visopsys.org/) | Independent hobby OS |
+| [Syllable](https://www.syllable.org/) | Lightweight independent desktop OS |
+| [Haiku](https://www.haiku-os.org/) | BeOS-inspired open-source desktop OS |
+| [AROS](https://www.aros.org/) | AmigaOS-compatible open-source project |
+| [Cosmos](https://github.com/CosmosOS/Cosmos) | .NET OS development framework |
+| [MikanOS](https://github.com/uchan-nos/mikanos) | Educational x86 OS project |
+| [uxn](https://100r.co/site/uxn.html) | Portable virtual machine/computing platform |
+| [TempleOS](https://templeos.org/) | Historical hobby OS |
+| [Collapse OS](https://collapseos.org/) | Tiny resilient computing OS project |
+| [Contiki-NG](https://www.contiki-ng.org/) | Lightweight embedded networking OS |
+| [RIOT](https://www.riot-os.org/) | Tiny embedded/IoT operating system |
+| [Zephyr](https://www.zephyrproject.org/) | Scalable real-time embedded OS |
+| [Apache NuttX](https://nuttx.apache.org/) | Real-time embedded OS |
+| [FreeRTOS](https://www.freertos.org/) | Real-time embedded operating system |
+
+## Classic / legacy Unix families 📜
+
+| System | Why it matters |
+|---|---|
+| [UNIX](https://www.opengroup.org/openbrand/register/) | Original Unix family and standards |
+| [BSD](https://www.freebsd.org/) | Major Unix-derived family |
+| [FreeBSD](https://www.freebsd.org/) | General-purpose BSD |
+| [OpenBSD](https://www.openbsd.org/) | Security-focused BSD |
+| [NetBSD](https://www.netbsd.org/) | Highly portable BSD |
+| [DragonFly BSD](https://www.dragonflybsd.org/) | BSD with distinctive SMP/cluster design |
+| [Illumos](https://illumos.org/) | Open Solaris-derived Unix family |
+| [OpenSolaris](https://en.wikipedia.org/wiki/OpenSolaris) | Historical open Solaris project |
+| [Solaris](https://www.oracle.com/solaris/) | Enterprise Unix from Sun/Oracle |
+| [AIX](https://www.ibm.com/products/aix) | IBM enterprise Unix |
+| [HP-UX](https://www.hpe.com/us/en/servers/hp-ux.html) | Hewlett Packard enterprise Unix |
+| [IRIX](https://en.wikipedia.org/wiki/IRIX) | Historical Silicon Graphics Unix |
+| [Tru64 UNIX](https://en.wikipedia.org/wiki/Tru64_UNIX) | Historical DEC/Compaq Unix |
+| [UnixWare](https://en.wikipedia.org/wiki/UnixWare) | Historical commercial Unix |
+| [SCO OpenServer](https://en.wikipedia.org/wiki/SCO_OpenServer) | Historical commercial Unix |
+| [Xenix](https://en.wikipedia.org/wiki/Xenix) | Historical Microsoft/SCO Unix |
+| [NeXTSTEP](https://en.wikipedia.org/wiki/NeXTSTEP) | Historical Unix-based NeXT OS |
+| [OPENSTEP](https://en.wikipedia.org/wiki/OPENSTEP) | Historical NeXT/OpenStep Unix environment |
+
+## Portable / multiboot / OS deployment projects 📦
 
 | Project | Focus |
 |---|---|
-| [SpiralLinux](https://spirallinux.github.io/) | Preconfigured Debian |
-| [Siduction](https://siduction.org/) | Debian Sid community distro |
-| [BigLinux](https://www.biglinux.com.br/) | Brazilian community desktop |
-| [TROMjaro](https://www.tromjaro.com/) | Community Arch desktop |
-| [Mabox Linux](https://maboxlinux.org/) | Lightweight Arch desktop |
-| [XeroLinux](https://xerolinux.xyz/) | KDE-focused Arch project |
-| [Nyarch Linux](https://nyarchlinux.org/) | Community Arch desktop |
-| [ParchLinux](https://parchlinux.com/) | Arch-based desktop |
-| [Obarun](https://www.obarun.org/) | Systemd-free Arch derivative |
-| [Hyperbola](https://www.hyperbola.info/) | Freedom-focused distro |
-| [BunsenLabs](https://www.bunsenlabs.org/) | Lightweight Debian desktop |
-| [Q4OS](https://q4os.org/) | Traditional Debian desktop |
-| [PikaOS](https://wiki.pika-os.com/) | Gaming-oriented Debian |
-| [Redcore Linux](https://redcorelinux.org/) | Gentoo-derived desktop |
-| [Calculate Linux](https://calculate-linux.org/) | Gentoo-derived distro |
-| [MocaccinoOS](https://www.mocaccino.org/) | Modular Linux |
-| [AerynOS](https://aerynos.com/) | Independent Linux |
-| [Serpent OS](https://serpentos.com/) | Independent Linux |
-| [Chimera Linux](https://chimera-linux.org/) | Independent Linux |
-| [Accessible-Coconut](https://accessible-coconut.org/) | Accessibility-focused Linux |
-| [Ufficio Zero Linux](https://ufficiozero.org/) | Office-oriented Linux |
-| [Lakka](https://www.lakka.tv/) | Retro gaming |
-| [Batocera](https://batocera.org/) | Retro gaming |
-| [Recalbox](https://www.recalbox.com/) | Retro gaming |
-| [Porteus](https://porteus.org/) | Portable Linux |
-| [EasyOS](https://easyos.org/) | Experimental Linux |
-| [Nitrux](https://nxos.org/) | Independent desktop Linux |
-| [KaOS](https://kaosx.us/) | KDE/Qt-focused Linux |
-| [PorteuX](https://sourceforge.net/projects/porteux/) | Community Slackware derivative |
-| [ArcoLinux](https://arcolinux.com/) | Arch learning/customization project |
-| [Puppy Linux](https://puppylinux-woof-ce.github.io/) | Community family of tiny distros |
-| [4MLinux](https://4mlinux.com/) | Community multi-purpose Linux |
-| [Feren OS](https://ferenos.weebly.com/) | Community desktop |
-| [MakuluLinux](https://www.makululinux.com/) | Community desktop |
-| [ExTiX](https://www.extix.se/) | Community experimental builds |
-| [Pardus](https://www.pardus.org.tr/en/) | Community/national Linux project |
-| [Rosa Linux](https://www.rosalinux.eu/) | Community Linux family |
-| [CusDeb OS](https://github.com/cusdeb-com/os) | Community Debian/Linux Windows-like OS |
-| [newOS](https://github.com/leizongmin/newos) | Community Linux kernel OS experiment |
-| [kmOS](https://github.com/kkmonlee/kmOS) | Community Unix-like OS from scratch |
-
-## Experimental / research 🧬
-
-| OS / project | What makes it interesting |
-|---|---|
-| [Redox OS](https://www.redox-os.org/) | Rust-based Unix-like OS |
-| [HelenOS](https://www.helenos.org/) | Microkernel research OS |
-| [seL4](https://sel4.systems/) | Formally verified microkernel ecosystem |
-| [Genode](https://genode.org/) | Component-based OS framework |
-| [Fuchsia](https://fuchsia.dev/) | Zircon-based modern OS platform |
-| [MINIX 3](https://www.minix3.org/) | Microkernel/research Unix-like OS |
-| [MenuetOS](https://menuetos.net/) | Assembly-language OS project |
-| [KolibriOS](https://kolibrios.org/) | Tiny assembly-based OS |
-| [Visopsys](https://visopsys.org/) | Small independent OS |
-| [Collapse OS](https://collapseos.org/) | Tiny systems-oriented OS |
-| [FreeRTOS](https://www.freertos.org/) | Real-time embedded OS |
-| [Zephyr](https://www.zephyrproject.org/) | Scalable embedded RTOS |
-| [Tock OS](https://www.tockos.org/) | Rust-based embedded OS |
-| [eCos](https://www.ecos.sourceware.org/) | Configurable embedded RTOS |
-| [TempleOS](https://templeos.org/) | Historical hobbyist OS |
-| [Oberon](https://www.projectoberon.net/) | Educational/research OS family |
-| [SerenityOS](https://serenityos.org/) | Desktop OS built from scratch |
-| [ToaruOS](https://github.com/klange/toaruos) | Hobbyist Unix-like desktop OS |
-| [Sortix](https://sortix.org/) | Small Unix-like OS |
-| [Phantom OS](https://phantomd.org/) | Persistent-memory OS research |
-| [Barrelfish](https://www.barrelfish.org/) | Multikernel research OS |
-| [Singularity](https://www.microsoft.com/en-us/research/project/singularity/) | Historical research OS |
-| [Haiku](https://www.haiku-os.org/) | BeOS-inspired desktop OS |
-| [ReactOS](https://reactos.org/) | Windows-compatible open-source OS project |
-| [AROS](https://www.aros.org/) | AmigaOS-compatible research/desktop OS |
-| [CatK](https://github.com/Rodmatronic/CatK) | Small Unix-like kernel project |
-| [kmOS](https://github.com/kkmonlee/kmOS) | Unix-like monolithic OS written from scratch |
-
-## BSD / Unix-like 🐚
-
-[FreeBSD](https://www.freebsd.org/), [OpenBSD](https://www.openbsd.org/), [NetBSD](https://www.netbsd.org/), [DragonFly BSD](https://www.dragonflybsd.org/), [GhostBSD](https://www.ghostbsd.org/), [MidnightBSD](https://www.midnightbsd.org/), [NomadBSD](https://nomadbsd.org/), [HardenedBSD](https://hardenedbsd.org/), [OPNsense](https://opnsense.org/), [pfSense](https://www.pfsense.org/), [XigmaNAS](https://www.xigmanas.com/), [Haiku](https://www.haiku-os.org/), [ReactOS](https://reactos.org/), [FreeDOS](https://www.freedos.org/), [Redox OS](https://www.redox-os.org/), [GNU Hurd](https://www.gnu.org/software/hurd/), [Plan 9](https://9p.io/plan9/), [9front](http://9front.org/), [RISC OS](https://www.riscosopen.org/), [SerenityOS](https://serenityos.org/), [MINIX](https://www.minix3.org/), [HelenOS](https://www.helenos.org/), [Fuchsia](https://fuchsia.dev/), [Genode](https://genode.org/), [Inferno](https://www.vitanuova.com/inferno/), [AROS](https://www.aros.org/), [MorphOS](https://www.morphos-team.net/), [Syllable](https://www.syllable.org/), [CatK](https://github.com/Rodmatronic/CatK), [kmOS](https://github.com/kkmonlee/kmOS).
-
-## illumos / OpenSolaris ☀️
-
-[illumos](https://illumos.org/), [OpenIndiana](https://www.openindiana.org/), [SmartOS](https://smartos.org/), [OmniOS](https://omnios.org/), [Tribblix](https://www.tribblix.org/), [DilOS](https://www.dilos.org/), [Nexenta](https://nexenta.com/) (historical/legacy ecosystem), [Joyent SmartOS](https://smartos.org/).
-
-## Historical / discontinued OSes 🕰️
-
-[Antergos](https://distrowatch.com/table.php?distribution=antergos), [Chakra](https://distrowatch.com/table.php?distribution=chakra), [ArchLabs](https://distrowatch.com/table.php?distribution=archlabs), [Apricity OS](https://distrowatch.com/table.php?distribution=apricity), [VeltOS](https://distrowatch.com/table.php?distribution=veltos), [Arch XFerience](https://distrowatch.com/table.php?distribution=archxferience), [Netrunner Rolling](https://distrowatch.com/table.php?distribution=netrunner), [MagpieOS](https://distrowatch.com/table.php?distribution=magpieos), [Anarchy](https://distrowatch.com/table.php?distribution=anarchy), [LinHES](https://distrowatch.com/table.php?distribution=linhes), [Scientific Linux](https://scientificlinux.org/), [Mandriva Linux](https://distrowatch.com/table.php?distribution=mandriva), [CentOS Linux](https://www.centos.org/), [CrunchBang](https://distrowatch.com/table.php?distribution=crunchbang), [Pear OS](https://distrowatch.com/table.php?distribution=pear), [Fuduntu](https://distrowatch.com/table.php?distribution=fuduntu), [Kororaa](https://distrowatch.com/table.php?distribution=kororaa), [Sabayon](https://distrowatch.com/table.php?distribution=sabayon), [Dreamlinux](https://distrowatch.com/table.php?distribution=dreamlinux), [BackTrack](https://distrowatch.com/table.php?distribution=backtrack), [MEPIS](https://distrowatch.com/table.php?distribution=mepis), [Freespire](https://distrowatch.com/table.php?distribution=freespire), [ArtistX](https://sourceforge.net/projects/artistx/), [Dream Studio](https://sourceforge.net/projects/dreamstudio/), [Fuduntu](https://sourceforge.net/projects/fuduntu/), [Sabayon](https://sourceforge.net/projects/sabayon/), [CrunchBang](https://sourceforge.net/projects/crunchbang/).
+| [Ventoy](https://www.ventoy.net/) | Boot many ISO/WIM/IMG files from one USB |
+| [YUMI](https://www.pendrivelinux.com/yumi-multiboot-usb-creator/) | Multiboot USB creation |
+| [Easy2Boot](https://easy2boot.com/) | Multiboot USB/drive system |
+| [PINN](https://sourceforge.net/projects/pinn/) | Raspberry Pi multi-OS installer/chooser |
+| [BerryBoot](https://www.berryterminal.com/doku.php/berryboot) | Raspberry Pi multi-OS boot manager |
+| [NOOBS](https://www.raspberrypi.com/software/) | Historical Raspberry Pi OS installer |
+| [UNetbootin](https://unetbootin.github.io/) | Create bootable live USB media |
+| [Rufus](https://rufus.ie/) | Bootable USB creation tool |
+| [Etcher](https://etcher.balena.io/) | Image flashing utility |
+| [Puppy Linux](https://puppylinux-woof-ce.github.io/) | Portable live Linux |
+| [Porteus](https://porteus.org/) | Modular portable live Linux |
 
 ## Build systems / distro builders 🧱
 
 | Project | What it does |
 |---|---|
-| [Linux From Scratch](https://www.linuxfromscratch.org/) | Teaches manual Linux construction |
-| [Beyond Linux From Scratch](https://www.linuxfromscratch.org/blfs/) | Extends an LFS system |
-| [Buildroot](https://buildroot.org/) | Generates embedded Linux systems |
-| [Yocto Project](https://www.yoctoproject.org/) | Builds customized embedded Linux distributions |
-| [OpenEmbedded](https://www.openembedded.org/) | Metadata-driven embedded Linux framework |
-| [Debian Live](https://live-team.pages.debian.net/live-manual/) | Builds Debian live images |
-| [live-build](https://salsa.debian.org/live-team/live-build) | Debian live image construction tools |
-| [Archiso](https://gitlab.archlinux.org/archlinux/archiso) | Builds Arch-based live/install media |
-| [mkarchiso](https://gitlab.archlinux.org/archlinux/archiso) | Arch ISO creation tool |
-| [livecd-tools](https://github.com/livecd-tools/livecd-tools) | Live image build tools |
-| [Pungi](https://pagure.io/pungi) | Fedora compose tooling |
-| [KIWI NG](https://osinside.github.io/kiwi/) | Builds Linux system images |
-| [Cubic](https://launchpad.net/cubic) | Ubuntu ISO customization |
-| [Penguins-Eggs](https://penguins-eggs.net/) | Remaster/live ISO creation |
-| [Refracta Snapshot](https://www.ibiblio.org/refracta/) | Live/installable image creation |
-| [Debootstrap](https://wiki.debian.org/Debootstrap) | Creates Debian base systems |
-| [mmdebstrap](https://gitlab.mister-muffin.de/debian/mmdebstrap) | Flexible Debian bootstrap tool |
-| [ALCI](https://github.com/arch-linux-calamares-installer) | Arch installer/image ecosystem |
-| [Linux Live Kit](https://www.linux-live.org/) | Build your own live Linux system |
-| [Remastersys](https://sourceforge.net/projects/remastersys/) | Historical Linux remastering tool |
-| [Systemback](https://sourceforge.net/projects/systemback/) | Historical snapshot/live-system tool |
-| [Refracta Tools](https://sourceforge.net/projects/refracta/) | Debian live/remastering tools |
-| [SUSE Studio](https://www.suse.com/products/suse-studio/) | Build customized SUSE images |
-| [KIWI](https://sourceforge.net/projects/kiwi/) | Linux image-building framework |
+| [Linux From Scratch](https://www.linuxfromscratch.org/) | Build Linux manually from source |
+| [Beyond Linux From Scratch](https://www.linuxfromscratch.org/blfs/) | Expand an LFS system |
+| [Buildroot](https://buildroot.org/) | Build embedded Linux images |
+| [Yocto Project](https://www.yoctoproject.org/) | Build custom embedded Linux distributions |
+| [OpenEmbedded](https://www.openembedded.org/) | Metadata/build framework for embedded Linux |
+| [Debian Live](https://live-team.pages.debian.net/live-manual/) | Build Debian live images |
+| [live-build](https://salsa.debian.org/live-team/live-build) | Debian live image construction tool |
+| [Archiso](https://wiki.archlinux.org/title/Archiso) | Build Arch Linux live/install images |
+| [mkarchiso](https://gitlab.archlinux.org/archlinux/archiso) | Arch ISO build utility |
+| [Cubic](https://launchpad.net/cubic) | Ubuntu live ISO customization |
+| [Penguins-eggs](https://penguins-eggs.net/) | Remaster/install live Linux systems |
+| [Refracta Snapshot](https://www.ibiblio.org/refracta/) | Create live/installable images |
+| [KIWI NG](https://osinside.github.io/kiwi/) | Build Linux appliances/images |
+| [Packer](https://www.packer.io/) | Automated machine-image building |
+| [Distrobuilder](https://github.com/lxc/distrobuilder) | Build container/VM root filesystems |
+| [Alpine mkimage](https://gitlab.alpinelinux.org/alpine/aports) | Build Alpine images |
+| [T2 SDE](https://t2sde.org/) | Build complete Linux/Unix systems |
+| [OpenWrt ImageBuilder](https://openwrt.org/docs/guide-user/additional-software/imagebuilder) | Build customized OpenWrt images |
 
-## Media-center / HTPC OSes 📺
+## More distro indexes / discovery 📚
 
-| OS | Focus |
-|---|---|
-| [LibreELEC](https://libreelec.tv/) | Minimal Kodi media-center appliance |
-| [CoreELEC](https://coreelec.org/) | Kodi-focused media OS for ARM devices |
-| [OSMC](https://osmc.tv/) | Debian-based Kodi media center |
-| [OpenELEC](https://openelec.tv/) | Historical Kodi appliance OS |
-| [GeeXboX](https://geexbox.org/) | Historical embedded media-center Linux |
-| [Lakka](https://www.lakka.tv/) | RetroArch/media-console appliance |
-| [Batocera](https://batocera.org/) | Gaming and media appliance |
-
-## Cloud / container OSes ☁️
-
-| OS | Focus |
-|---|---|
-| [Talos Linux](https://www.talos.dev/) | Minimal immutable Kubernetes OS |
-| [Flatcar Container Linux](https://www.flatcar.org/) | Container-focused immutable Linux |
-| [Fedora CoreOS](https://fedoraproject.org/coreos/) | Automatic container hosts |
-| [Bottlerocket](https://aws.amazon.com/bottlerocket/) | Minimal container host from AWS |
-| [RancherOS](https://github.com/rancher/os) | Historical container-centric Linux |
-| [Photon OS](https://vmware.github.io/photon/) | VMware-optimized cloud/container Linux |
-| [Alpine Linux](https://www.alpinelinux.org/) | Small container/server base |
-| [Ubuntu Core](https://ubuntu.com/core) | Transactional embedded/cloud Ubuntu |
-| [openSUSE MicroOS](https://microos.opensuse.org/) | Automated transactional host OS |
-| [Fedora IoT](https://fedoraproject.org/iot/) | Immutable IoT/edge OS |
-
-## NAS / storage OSes 🗄️
-
-| OS | Focus |
-|---|---|
-| [TrueNAS SCALE](https://www.truenas.com/truenas-scale/) | Linux-based NAS and storage platform |
-| [TrueNAS CORE](https://www.truenas.com/truenas-core/) | FreeBSD-based NAS platform |
-| [OpenMediaVault](https://www.openmediavault.org/) | Debian-based home NAS |
-| [XigmaNAS](https://www.xigmanas.com/) | FreeBSD-based storage appliance |
-| [Rockstor](https://rockstor.com/) | Linux/Btrfs storage server |
-| [Openfiler](https://www.openfiler.com/) | Historical storage appliance Linux |
-| [EasyNAS](https://easynas.org/) | NAS-focused Linux project |
-| [Unraid](https://unraid.net/) | Storage/server OS with virtualization and containers |
-| [TurnKey File Server](https://www.turnkeylinux.org/fileserver) | Ready-to-deploy file server appliance |
-
-## Virtualization / hypervisor platforms 🧰
-
-| Platform | Focus |
-|---|---|
-| [Proxmox VE](https://www.proxmox.com/en/proxmox-virtual-environment) | KVM virtual machines and LXC containers |
-| [XCP-ng](https://xcp-ng.org/) | Open-source Xen-based virtualization |
-| [Xen](https://xenproject.org/) | Type-1 hypervisor ecosystem |
-| [KVM](https://www.linux-kvm.org/) | Linux kernel virtualization |
-| [oVirt](https://www.ovirt.org/) | Virtualization management platform |
-| [OpenNebula](https://opennebula.io/) | Private cloud and virtualization management |
-| [Harvester](https://harvesterhci.io/) | Kubernetes-native hyperconverged infrastructure |
-| [SmartOS](https://smartos.org/) | illumos-based virtualization/cloud platform |
-| [Nutanix AHV](https://www.nutanix.com/products/ahv) | Enterprise hypervisor platform |
-| [VMware ESXi](https://www.vmware.com/products/cloud-foundation) | Enterprise virtualization platform |
-
-## Educational OSes 🎓
-
-| OS | Focus |
-|---|---|
-| [Edubuntu](https://www.edubuntu.org/) | Ubuntu for educational environments |
-| [Sugar on a Stick](https://wiki.sugarlabs.org/) | Educational computing environment |
-| [KDE Linux](https://kde.org/) | KDE ecosystem and desktop development |
-| [MINIX 3](https://www.minix3.org/) | Operating-systems education and research |
-| [Oberon](https://www.projectoberon.net/) | Teaching systems and programming concepts |
-| [Raspbian / Raspberry Pi OS](https://www.raspberrypi.com/software/) | Education and low-cost computing |
-| [Skolelinux / Debian Edu](https://www.skolelinux.org/) | Schools and classroom infrastructure |
-| [AcademiX GNU/Linux](https://academixproject.org/) | Education/science-focused Linux |
-| [UberStudent](https://uberstudent.org/) | Historical student-focused Linux |
-
-## Accessibility-focused OSes ♿
-
-| OS / project | Focus |
-|---|---|
-| [Accessible-Coconut](https://accessible-coconut.org/) | Accessibility-first Linux desktop |
-| [Sonar GNU/Linux](https://distrowatch.com/table.php?distribution=sonar) | Historical accessibility-focused Linux |
-| [Vinux](https://vinuxproject.org/) | Historical accessibility-focused Linux |
-| [Adriane](https://www.knopper.net/knoppix-adriane/) | Accessible interface for visually impaired users |
-| [Knoppix ADRIANE](https://www.knopper.net/knoppix-adriane/) | Accessibility-focused Knoppix environment |
-| [Orca](https://wiki.gnome.org/Projects/Orca) | Screen-reader ecosystem for Linux desktops |
-
-## Regional / national distributions 🌍
-
-| OS | Region / focus |
-|---|---|
-| [Pardus](https://www.pardus.org.tr/en/) | Türkiye |
-| [Rosa Linux](https://www.rosalinux.eu/) | Russia / international |
-| [ALT Linux](https://www.altlinux.org/) | Russia |
-| [Deepin](https://www.deepin.org/) | China |
-| [openEuler](https://www.openeuler.org/) | China / enterprise and server |
-| [Anolis OS](https://openanolis.org/) | China / cloud infrastructure |
-| [Ubuntu Kylin](https://www.ubuntukylin.com/) | Chinese Ubuntu community |
-| [BigLinux](https://www.biglinux.com.br/) | Brazil |
-| [LiMux](https://en.wikipedia.org/wiki/LiMux) | Historical German public-sector Linux |
-| [GendBuntu](https://en.wikipedia.org/wiki/GendBuntu) | Historical French public-sector Ubuntu deployment |
-| [BOSS Linux](https://www.bosslinux.in/) | India |
-| [Bharat Operating System Solutions](https://www.bosslinux.in/) | Indian Linux distribution family |
-| [Nova](https://en.wikipedia.org/wiki/Nova_(operating_system)) | Historical Cuban Linux distribution |
-
-## Hobby / from-scratch OSes 🧑‍🔬
-
-| OS | Focus |
-|---|---|
-| [SerenityOS](https://serenityos.org/) | Desktop OS built from scratch |
-| [ToaruOS](https://github.com/klange/toaruos) | Hobbyist Unix-like OS |
-| [Sortix](https://sortix.org/) | Small Unix-like system |
-| [CatK](https://github.com/Rodmatronic/CatK) | Small C-based Unix-like kernel |
-| [kmOS](https://github.com/kkmonlee/kmOS) | Monolithic Unix-like OS from scratch |
-| [newOS](https://github.com/leizongmin/newos) | Linux-kernel-based experimental OS |
-| [TempleOS](https://templeos.org/) | Historical hobby OS |
-| [MenuetOS](https://menuetos.net/) | Assembly-focused hobby OS |
-| [KolibriOS](https://kolibrios.org/) | Tiny assembly OS |
-| [Visopsys](https://visopsys.org/) | Independent hobby OS |
-| [Collapse OS](https://collapseos.org/) | Tiny resilient computing project |
-| [Cosmos](https://github.com/CosmosOS/Cosmos) | .NET-based OS development framework |
-| [MikanOS](https://github.com/uchan-nos/mikanos) | Educational x86 OS project |
-| [ToaruOS](https://sourceforge.net/projects/toaruos/) | Unix-like hobby OS project |
-
-## Windows-compatible / alternative desktop OSes 🪟
-
-| OS | What it is |
-|---|---|
-| [ReactOS](https://reactos.org/) | Open-source Windows-compatible OS project |
-| [Haiku](https://www.haiku-os.org/) | BeOS-inspired desktop OS |
-| [AROS](https://www.aros.org/) | AmigaOS-compatible open-source OS |
-| [MorphOS](https://www.morphos-team.net/) | Amiga-inspired operating system |
-| [Syllable](https://www.syllable.org/) | Lightweight desktop OS project |
-| [FreeDOS](https://www.freedos.org/) | DOS-compatible operating system |
-| [RISC OS](https://www.riscosopen.org/) | Alternative desktop OS for ARM and other systems |
-| [SerenityOS](https://serenityos.org/) | Retro-inspired desktop OS from scratch |
-| [CusDeb OS](https://github.com/cusdeb-com/os) | Debian/Linux OS with Win32-style desktop goals |
-
-## Distro indexes / discovery 📚
-
-- [DistroWatch](https://distrowatch.com/) — large Linux/BSD distribution directory and news site.
-- [DistroFinder](https://distro-finder.com/) — searchable distro discovery and recommendation site.
-- [Linux.org](https://www.linux.org/) — Linux community, forums and distribution resources.
-- [SourceForge](https://sourceforge.net/) — hosts many open-source OS projects, mirrors and downloads.
-- [GitHub](https://github.com/) — source code and community projects for operating systems.
-- [Wikipedia — List of Linux distributions](https://en.wikipedia.org/wiki/List_of_Linux_distributions) — broad historical/current reference.
-- [Wikipedia — Comparison of Linux distributions](https://en.wikipedia.org/wiki/Comparison_of_Linux_distributions) — compare package managers, init systems and features.
-- [ArchWiki — Arch-based distributions](https://wiki.archlinux.org/title/Arch-based_distributions) — useful for finding Arch derivatives.
-- [LinuxTracker](https://linuxtracker.org/) — Linux ISO/distribution community resource.
-- [OSNews](https://www.osnews.com/) — news and discussion around operating systems.
+- [DistroWatch](https://distrowatch.com/) — Linux/BSD distribution directory and news.
+- [DistroFinder](https://distro-finder.com/) — distro discovery and recommendations.
+- [Linux.org](https://www.linux.org/) — Linux community and distribution forums.
+- [SourceForge OS directory](https://sourceforge.net/directory/operating-systems/) — very large collection of open-source operating-system projects.
+- [SourceForge Linux OS directory](https://sourceforge.net/directory/operating-systems/linux/) — Linux projects and distributions.
+- [SourceForge BSD OS directory](https://sourceforge.net/directory/operating-systems/bsd/) — BSD projects and related systems.
+- [Wikipedia — List of Linux distributions](https://en.wikipedia.org/wiki/List_of_Linux_distributions) — broad Linux reference.
+- [Wikipedia — Comparison of Linux distributions](https://en.wikipedia.org/wiki/Comparison_of_Linux_distributions) — package managers, init systems and technical comparisons.
+- [ArchWiki — Arch-based distributions](https://wiki.archlinux.org/title/Arch-based_distributions) — Arch derivative reference.
+- [OSNews](https://www.osnews.com/) — operating-system news and discussion.
 - [Free Software Directory](https://directory.fsf.org/) — free-software project directory.
-- [AlternativeTo](https://alternativeto.net/) — software discovery and alternatives.
-- [DistroSea](https://distrosea.com/) — browser-based Linux distro testing/discovery.
+- [DistroSea](https://distrosea.com/) — browser-based distro testing.
+- [LinuxTracker](https://linuxtracker.org/) — Linux ISO/distribution community resource.
 
 ## Notes
 
-- **Active status changes.** Small distributions can appear, disappear, rename themselves, or become inactive quickly.
-- **Not every project here is a complete standalone distribution.** Some entries are build frameworks, research systems, appliances, live environments, software ecosystems, hypervisors, or operating-system projects.
-- **Community projects matter.** Smaller distributions are included instead of only listing the biggest names.
-- **Security systems are for authorized use.** Use penetration-testing and security tooling only on systems and networks you own or have permission to test.
-- Links use a mixture of official sites and useful project mirrors/indexes such as SourceForge, GitHub, Linux.org, DistroWatch and Wikipedia.
+- **This catalog is intentionally huge.** Entries may appear in multiple categories when they serve multiple purposes.
+- **Not every entry is a standalone distro.** Some are operating systems, appliances, embedded systems, research projects, frameworks, image builders, or software ecosystems.
+- **Status changes.** Small projects can become inactive, rename themselves, fork, or return to development.
+- **Security systems are for authorized use only.**
+- Sources are intentionally mixed to make obscure projects easier to discover.
 
 ## Contributions 🤝
 
-Found another Linux, BSD, Unix-like, embedded, research, community, historical, or experimental OS? Add it!
+Found another Linux, BSD, Unix-like, embedded, research, historical, community, or experimental OS? Add it!
 
 Good entries should include:
 
@@ -651,4 +425,4 @@ Good entries should include:
 4. A useful project/download/documentation link
 5. Whether it is active, experimental, or historical when that matters
 
-The goal is for this README to keep growing into a **massive OS discovery catalog**. 🐧🌎
+The goal is for this README to keep growing into a **massive OS discovery catalog**. 🐧🌎🔥
